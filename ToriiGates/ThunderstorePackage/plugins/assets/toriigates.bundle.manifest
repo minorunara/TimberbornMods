@@ -1,0 +1,78 @@
+ManifestFileVersion: 0
+CRC: 631230492
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3dfab08c967ab8fc0def7478a0e44dfa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 062ea2ba5a280b999820a231ee533341
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 406104335, guid: 79523a2b71f4fae881a60ad2e723d456, type: 3}
+- Class: 114
+  Script: {fileID: -790041461, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
+- Class: 114
+  Script: {fileID: -460516431, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
+- Class: 114
+  Script: {fileID: 898950725, guid: 644c1295076bbdbb604b7f96aa6be9c2, type: 3}
+- Class: 114
+  Script: {fileID: 1800879565, guid: c1ff95bb5ae0e8b420075ec58add6f36, type: 3}
+- Class: 114
+  Script: {fileID: -871492198, guid: c1ff95bb5ae0e8b420075ec58add6f36, type: 3}
+- Class: 114
+  Script: {fileID: -296257353, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
+- Class: 114
+  Script: {fileID: -788214902, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
+- Class: 114
+  Script: {fileID: 1279496545, guid: 79523a2b71f4fae881a60ad2e723d456, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Timberborn.BlockSystem
+  ClassName: Timberborn.BlockSystem.BlockSpecification
+- AssemblyName: Timberborn.BlockSystem
+  ClassName: Timberborn.BlockSystem.BlocksSpecification
+- AssemblyName: Timberborn.BlockSystem
+  ClassName: Timberborn.BlockSystem.CustomPivotSpecification
+- AssemblyName: Timberborn.BlockSystem
+  ClassName: Timberborn.BlockSystem.EntranceBlockSpecification
+- AssemblyName: Timberborn.Goods
+  ClassName: Timberborn.Goods.GoodAmountSpecification
+Assets:
+- Assets/ToriiGateDaiishi.fbx
+- "Assets/Materials/\u30DE\u30C6\u30EA\u30A2\u30EB.mat"
+- "Assets/Materials/IronToriiGate-\u30DE\u30C6\u30EA\u30A2\u30EB.mat"
+- Assets/SImpleToriiGate.prefab
+- Assets/IronToriiGate.prefab
+- Assets/Materials/BaseMetal_D2.png
+- Assets/Materials/BaseMetal_N.png
+- Assets/TreatedToriiGateDaiishi.fbx
+- Assets/HugeToriiGateFT.prefab
+- Assets/Materials/BaseMetal_D1.png
+- Assets/TreatedToriiGate.prefab
+- Assets/PrimitiveToriiGate.prefab
+- Assets/HugeToriiGateIT.prefab
+- Assets/DemoToriiGate.prefab
+Dependencies: []
