@@ -4,7 +4,7 @@ This mod adds 7 different torii gates to the decoration.
 
 ## List of added decoration
 
-![DemoVerToriiGate](https://github.com/minorunara/TimberbornMods/blob/main/ToriiGates/attachments/ToriiGates.png.png?raw=true)
+![DemoVerToriiGate](https://github.com/minorunara/TimberbornMods/blob/main/ToriiGates/attachments/ToriiGates.png?raw=true)
 
 ![ToriiGates](https://github.com/minorunara/TimberbornMods/blob/main/ToriiGates/attachments/DemoVerToriiGate.png?raw=true)
 
