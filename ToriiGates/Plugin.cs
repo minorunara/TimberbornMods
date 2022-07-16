@@ -1,4 +1,4 @@
-﻿using BepInEx;
+using BepInEx;
 using BepInEx.Logging;
 using Bindito.Core;
 using Timberborn.AssetSystem;
@@ -17,7 +17,7 @@ namespace TimberbornToriiGates
     public class Plugin : BaseUnityPlugin
     {
         public const string PluginGuid = "minorunara.Timberborn.ToriiGates";
-        public const string PluginVersion = "1.0.0";
+        public const string PluginVersion = "1.0.1";
 
         public static ManualLogSource Log;
 
