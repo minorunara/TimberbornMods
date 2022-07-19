@@ -1,4 +1,4 @@
-using BepInEx;
+﻿using BepInEx;
 using BepInEx.Logging;
 using Bindito.Core;
 using Timberborn.AssetSystem;
@@ -17,7 +17,7 @@ namespace TimberbornToriiGates
     public class Plugin : BaseUnityPlugin
     {
         public const string PluginGuid = "minorunara.Timberborn.ToriiGates";
-        public const string PluginVersion = "1.0.1";
+        public const string PluginVersion = "1.1.0";
 
         public static ManualLogSource Log;
 
@@ -49,7 +49,7 @@ namespace TimberbornToriiGates
             var platformModel = _resourceAssetLoader.Load<GameObject>("Buildings/Paths/Platform/Platform.Full.Folktails");
             var shader = platformModel.GetComponent<MeshRenderer>().materials[0].shader;
 
-            AddBuilding("PrimitiveToriiGate", shader);  // 500
+            AddBuilding("PrimitiveToriiGate", shader);  // 500 Tool Order 
             AddBuilding("SimpleToriiGate", shader);     // 501
             AddBuilding("DemoToriiGate", shader);       // 502
             AddBuilding("TreatedToriiGate", shader);    // 503
@@ -65,7 +65,6 @@ namespace TimberbornToriiGates
             var building = _assetLoader.Load<GameObject>(Plugin.PluginGuid, $"toriigates.bundle/{name}");
 
             FixMaterialShader(building, shader);
-            TimberAPI.CustomObjectRegistry.AddGameObject(building);
         }
 
         private static void FixMaterialShader(GameObject obj, Shader shader)
