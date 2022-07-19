@@ -37,8 +37,7 @@ This mod was made from Elec's ExtendedArchitecture, so the license follows the o
 https://github.com/Timberborn-Modding-Central/ExtendedArchitecture/tree/main/Assets/ExtendedArchitecture
 
 ## Known Issues
-
-The bonus (Swimming Speed +20%) for the wooden grand gate is currently not working. This is probably a bug in the vanilla game.
+The bonus (Swimming Speed +20%) for the　Great Wooden Torii Gate is currently not working. This is probably a bug in the vanilla game.
 
 ## Changelog
 
@@ -48,13 +47,13 @@ The name of Huge Torii Gate was changed to Great Torii Gate.
 
 Torii now has a buffing effect on beavers. (It's just a few)
 
-TimberAPI 4.0.0 is now supported.
+TimberAPI 0.4.0 is now supported.
 
 Minor changes were made to the following models
 
-- Primitive torii gate
+- Primitive Torii Gate
 - Demo ver. Torii Gate
-- Treated torii gate
+- Treated Torii Gate
 - Great Wooden Torii Gate (Former name: Huge Torii Gate (FT))
 
 ### 1.0.1 - 2022/07/17
