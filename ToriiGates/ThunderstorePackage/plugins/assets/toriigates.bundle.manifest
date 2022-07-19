@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 631230492
+CRC: 2544268216
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3dfab08c967ab8fc0def7478a0e44dfa
+    Hash: 654a5d8a016bde3caa0c9676ff46701a
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 062ea2ba5a280b999820a231ee533341
+    Hash: bb89bd17ac5ceabc9328055ae3838578
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -40,11 +40,13 @@ ClassTypes:
 - Class: 114
   Script: {fileID: -871492198, guid: c1ff95bb5ae0e8b420075ec58add6f36, type: 3}
 - Class: 114
+  Script: {fileID: 1933139831, guid: 75be7af0b34ada5bff62a949a3c4181d, type: 3}
+- Class: 114
+  Script: {fileID: -1115272012, guid: 75be7af0b34ada5bff62a949a3c4181d, type: 3}
+- Class: 114
   Script: {fileID: -296257353, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
 - Class: 114
   Script: {fileID: -788214902, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
-- Class: 114
-  Script: {fileID: 1279496545, guid: 79523a2b71f4fae881a60ad2e723d456, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 213
@@ -60,17 +62,14 @@ SerializeReferenceClassIdentifiers:
   ClassName: Timberborn.BlockSystem.EntranceBlockSpecification
 - AssemblyName: Timberborn.Goods
   ClassName: Timberborn.Goods.GoodAmountSpecification
+- AssemblyName: Timberborn.NeedSpecifications
+  ClassName: Timberborn.NeedSpecifications.ContinuousEffectSpecification
 Assets:
 - Assets/ToriiGateDaiishi.fbx
-- "Assets/Materials/\u30DE\u30C6\u30EA\u30A2\u30EB.mat"
-- "Assets/Materials/IronToriiGate-\u30DE\u30C6\u30EA\u30A2\u30EB.mat"
 - Assets/SImpleToriiGate.prefab
 - Assets/IronToriiGate.prefab
-- Assets/Materials/BaseMetal_D2.png
-- Assets/Materials/BaseMetal_N.png
 - Assets/TreatedToriiGateDaiishi.fbx
 - Assets/HugeToriiGateFT.prefab
-- Assets/Materials/BaseMetal_D1.png
 - Assets/TreatedToriiGate.prefab
 - Assets/PrimitiveToriiGate.prefab
 - Assets/HugeToriiGateIT.prefab

@@ -13,14 +13,12 @@ This mod adds 7 different torii gates to the decoration.
 - Demo ver. Torii Gate
 - Treated Torii Gate
 - Iron Torii Gate
-- Huge Torii Gate (FT)
-- Huge Torii Gate (IT)
+- Great Wooden Torii Gate
+- Great Metal Torii Gate
 
 ## Disclaimer!
 
-This mod is currently only supported in the **experimental** version (v0.2.1.0) of Timberborn.
-
-Other versions will probably not work (and may crash the game).
+This mod is currently only supported in the **experimental** version (v0.2.1.0) of Timberborn. Other versions will probably not work (and may crash the game).
 
 ## Install
 
@@ -38,12 +36,31 @@ This mod was made from Elec's ExtendedArchitecture, so the license follows the o
 
 https://github.com/Timberborn-Modding-Central/ExtendedArchitecture/tree/main/Assets/ExtendedArchitecture
 
+## Known Issues
+
+The bonus (Swimming Speed +20%) for the wooden grand gate is currently not working. This is probably a bug in the vanilla game.
+
 ## Changelog
+
+### 1.1.0 - 2022/07/19
+
+The name of Huge Torii Gate was changed to Great Torii Gate.
+
+Torii now has a buffing effect on beavers. (It's just a few)
+
+TimberAPI 4.0.0 is now supported.
+
+Minor changes were made to the following models
+
+- Primitive torii gate
+- Demo ver. Torii Gate
+- Treated torii gate
+- Great Wooden Torii Gate (Former name: Huge Torii Gate (FT))
 
 ### 1.0.1 - 2022/07/17
 
-- Fixing a bug that prevented installation via the mod manager from working.
+Fixing a bug that prevented installation via the mod manager from working.
 
 ### 1.0.0 Target game version is (v0.2.1.0) - 2022/07/16
 
-- Released
+Released

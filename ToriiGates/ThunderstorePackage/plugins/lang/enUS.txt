@@ -14,9 +14,17 @@ minorunara.ToriiGates.IronToriiGate.Flavor,Many beavers gnaw on the simple torii
 minorunara.ToriiGates.TreatedToriiGate.DisplayName,Treated Torii Gate
 minorunara.ToriiGates.TreatedToriiGate.Description,Myojin torii gate.
 minorunara.ToriiGates.TreatedToriiGate.Flavor,Luxurious torii made of the finest wood coated with pine resin. A large number of beavers keep watch to make sure no one gnaws on it.
-minorunara.ToriiGates.HugeToriiGateFT.DisplayName,Huge Torii Gate (FT)
+minorunara.ToriiGates.HugeToriiGateFT.DisplayName,Great Wooden Torii Gate
 minorunara.ToriiGates.HugeToriiGateFT.Description,The torii gate of Itsukushima Shrine is so huge that it seems impossible to sink it to the bottom of the dam.
 minorunara.ToriiGates.HugeToriiGateFT.Flavor,The fusion of nature and technology has led to the creation of an advanced torii gate that is resistant to gnawing by beavers.
-minorunara.ToriiGates.HugeToriiGateIT.DisplayName,Huge Torii Gate (IT)
-minorunara.ToriiGates.HugeToriiGateIT.Description,A huge iron torii gate with a shape influenced by Folktails culture. Of course it is inedible.
+minorunara.ToriiGates.HugeToriiGateIT.DisplayName,Great Metal Torii Gate
+minorunara.ToriiGates.HugeToriiGateIT.Description,The torii gate of Kumano Hongu Taisha Shrine is so huge that it can be seen from another district. Needless to say it is inedible.
 minorunara.ToriiGates.HugeToriiGateIT.Flavor,"""But I thought torii were originally made for the great beavers to eat?"" —Pina"
+
+minorunara.ToriiGates.PrimitiveToriiGateNeed.DisplaynameLocKey,Primitive Torii Gate
+minorunara.ToriiGates.SimpleToriiGateNeed.DisplaynameLocKey,Simple Torii Gate
+minorunara.ToriiGates.DemoToriiGateNeed.DisplaynameLocKey,Demo ver. Torii Gate
+minorunara.ToriiGates.IronToriiGateNeed.DisplaynameLocKey,Iron Torii Gate
+minorunara.ToriiGates.TreatedToriiGateNeed.DisplaynameLocKey,Treated Torii Gate
+minorunara.ToriiGates.HugeToriiGateFTNeed.DisplaynameLocKey,Great Wooden Torii Gate
+minorunara.ToriiGates.HugeToriiGateITNeed.DisplaynameLocKey,Great Metal Torii Gate

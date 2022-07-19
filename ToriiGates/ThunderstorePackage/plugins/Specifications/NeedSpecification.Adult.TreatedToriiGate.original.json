@@ -1,0 +1,28 @@
+{
+  "Id": "TreatedToriiGate",
+  "BackwardCompatibleIds": [],
+  "Order": 56,
+  "NeedGroupId": "Aesthetics",
+  "CharacterType": "BeaverAdult",
+  "DisplayNameLocKey": "minorunara.ToriiGates.TreatedToriiGateNeed.DisplaynameLocKey",
+  "StartingValue": 0.0,
+  "MinimumValue": 0.0,
+  "MaximumValue": 1.0,
+  "DailyDelta": -2.0,
+  "ImportanceMultiplier": 1.0,
+  "CriticalNeedType": {
+    "Value": "None"
+  },
+  "CriticalSpriteName": "",
+  "CriticalDescriptionLocKey": "",
+  "Bonuses": [{
+    "Id": "Farming",
+    "MultiplierDelta": 0.1
+  }],
+  "DeathOnMinValue": false,
+  "DeathMessageLocKey": "",
+  "Effectiveness": 1.0,
+  "Wastable": false,
+  "HideWhenInactive": true,
+  "PositiveWellbeing": 0
+}
