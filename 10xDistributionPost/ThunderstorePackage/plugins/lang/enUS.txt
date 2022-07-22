@@ -1,0 +1,4 @@
+ID,Text,Comment
+minorunara.ToriiGates.10xDistributionPost.DisplayName,10x Distribution Post
+minorunara.ToriiGates.10xDistributionPost.Description,A distribution post where one beaver can export the equivalent of 10 regular beavers' worth of cargo to other districts.
+minorunara.ToriiGates.10xDistributionPost.Flavor,"""It's impossible to ship with just this little cargo. We need to accumulate at least 38 kg of cargo."" wholesale beaver"

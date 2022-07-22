@@ -1,0 +1,4 @@
+ID,Text,Comment
+minorunara.ToriiGates.10xDistributionPost.DisplayName,10倍配給拠点
+minorunara.ToriiGates.10xDistributionPost.Description,ビーバー1匹で通常のビーバー10匹分の貨物を他地区に輸出できる配給拠点。
+minorunara.ToriiGates.10xDistributionPost.Flavor,「これっぽっちの貨物だけじゃあ船は出せないね！最低でも38kgは無くちゃ。」-問屋のビーバー
