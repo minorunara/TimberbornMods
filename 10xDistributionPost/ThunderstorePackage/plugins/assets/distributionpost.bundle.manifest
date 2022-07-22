@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1908561513
+CRC: 1880775552
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a2802d61512b4de6786eda3e218b6bdd
+    Hash: b797a3238ff587ab8218674030379e14
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 2c3cda5fab5e0da8ed9f32360e04d7d7
+    Hash: cded66fb77c158b87c00f9eceb0c6c22
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -28,9 +28,9 @@ ClassTypes:
 - Class: 65
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 1794062130, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
-- Class: 114
   Script: {fileID: -790041461, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
+- Class: 114
+  Script: {fileID: 1794062130, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
 - Class: 114
   Script: {fileID: -460516431, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
 - Class: 114
@@ -54,6 +54,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: -788214902, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
 - Class: 114
+  Script: {fileID: 9237227, guid: dd1baa4f323651ee41781eb84b2b1960, type: 3}
+- Class: 114
   Script: {fileID: 406104335, guid: 79523a2b71f4fae881a60ad2e723d456, type: 3}
 - Class: 114
   Script: {fileID: -686023896, guid: bcb85dd25e41826ab5a7dea12cff2430, type: 3}
@@ -74,6 +76,8 @@ SerializeReferenceClassIdentifiers:
   ClassName: Timberborn.BonusSystem.BonusSpecification
 - AssemblyName: Timberborn.Goods
   ClassName: Timberborn.Goods.GoodAmountSpecification
+- AssemblyName: Timberborn.SlotSystem
+  ClassName: Timberborn.SlotSystem.TransformSlotSpecification
 Assets:
 - Assets/10xDistributionPost.IT.prefab
 - Assets/10xDistributionPost.FT.prefab
