@@ -1,4 +1,7 @@
-Beavers Edition of Transport Tycoon.
+## Deprecated
+**Currently this mod is deprecated due to a bug that prevents it from connecting to the road in two directions.**
+
+## Beavers Edition of Transport Tycoon
 
 This mod adds a distribution post that grants 10x strength to workers. This means that a beaver can export 100 kg (plus potatoes and other bonuses) and a golem 150 kg at a time.
 
