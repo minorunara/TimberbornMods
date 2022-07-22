@@ -1,6 +1,3 @@
-## Deprecated
-**Currently this mod is deprecated due to a bug that prevents it from connecting to the road in two directions.**
-
 ## Beavers Edition of Transport Tycoon
 
 This mod adds a distribution post that grants 10x strength to workers. This means that a beaver can export 100 kg (plus potatoes and other bonuses) and a golem 150 kg at a time.
@@ -22,7 +19,7 @@ Remember that you will also need to install any mods that are dependencies.
 You should find the 10x Distribution Post under the labor tab.
 
 ## Caution
-- Workers at distribution posts will not export shipments less than 25% of the weight they can carry.
+- Workers at distribution posts will not export shipments less than 25% of the weight they can carry. Therefore, it is not suitable for transporting small quantities of cargo.
 
 - The drop-off point has a capacity of only 300 and cannot accept too many routes.
 
@@ -47,6 +44,14 @@ https://github.com/Timberborn-Modding-Central/ExtendedArchitecture/tree/main/Ass
 The bonus (Swimming Speed +30%) for the 10x Distribution Post is currently not working. This is probably a bug in the vanilla game.
 
 ## Changelog
+
+### 1.0.1 - 2022/07/23
+
+Fixed a bug that caused roads to connect in only two directions.
+
+Migrated Unity project to 2022.1.8f1.
+
+Workers now rest on carts and boats when idle :D
 
 ### 1.0.0 Target game version is (v0.2.2.1) - 2022/07/22
 
