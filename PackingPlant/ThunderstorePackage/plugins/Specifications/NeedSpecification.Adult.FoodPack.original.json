@@ -1,0 +1,28 @@
+{
+  "Id": "FoodPack",
+  "BackwardCompatibleIds": [],
+  "Order": 55,
+  "NeedGroupId": "Nutrition",
+  "CharacterType": "BeaverAdult",
+  "DisplayNameLocKey": "minorunara.PackingPlant.FoodPackNeed.DisplaynameLocKey",
+  "StartingValue": 0.0,
+  "MinimumValue": 0.0,
+  "MaximumValue": 2.0,
+  "DailyDelta": -2.0,
+  "ImportanceMultiplier": 1.0,
+  "CriticalNeedType": {
+    "Value": "None"
+  },
+  "CriticalSpriteName": "",
+  "CriticalDescriptionLocKey": "",
+  "Bonuses": [{
+    "Id": "WorkingSpeed",
+    "MultiplierDelta": 0.05
+  }],
+  "DeathOnMinValue": false,
+  "DeathMessageLocKey": "",
+  "Effectiveness": 1.0,
+  "Wastable": false,
+  "HideWhenInactive": true,
+  "PositiveWellbeing": 0
+}

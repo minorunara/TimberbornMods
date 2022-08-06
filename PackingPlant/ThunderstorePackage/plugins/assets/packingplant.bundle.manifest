@@ -1,0 +1,114 @@
+ManifestFileVersion: 0
+CRC: 3434613102
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 94f7ca72112cb65ab95a1cc4bd0c95fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c54af5c490d7de02a40ba1cd753c8c96
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 443178000, guid: a01d35f43886f4b46e413d3c2ea20811, type: 3}
+- Class: 114
+  Script: {fileID: 1794062130, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
+- Class: 114
+  Script: {fileID: 1061738130, guid: 9d9a15fd937d3c3e3eda286523371813, type: 3}
+- Class: 114
+  Script: {fileID: 1700995066, guid: 9d9a15fd937d3c3e3eda286523371813, type: 3}
+- Class: 114
+  Script: {fileID: 1933283616, guid: 9d9a15fd937d3c3e3eda286523371813, type: 3}
+- Class: 114
+  Script: {fileID: -935546291, guid: 9d9a15fd937d3c3e3eda286523371813, type: 3}
+- Class: 114
+  Script: {fileID: 1011311746, guid: 9d9a15fd937d3c3e3eda286523371813, type: 3}
+- Class: 114
+  Script: {fileID: -790041461, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
+- Class: 114
+  Script: {fileID: -460516431, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
+- Class: 114
+  Script: {fileID: 294790411, guid: b6cb9fb40e6a9dd39b069e7f18c050b3, type: 3}
+- Class: 114
+  Script: {fileID: -1514884223, guid: a01d35f43886f4b46e413d3c2ea20811, type: 3}
+- Class: 114
+  Script: {fileID: -1496982017, guid: 71874a96862cca0445075c2f72e705bf, type: 3}
+- Class: 114
+  Script: {fileID: 1800879565, guid: c1ff95bb5ae0e8b420075ec58add6f36, type: 3}
+- Class: 114
+  Script: {fileID: -871492198, guid: c1ff95bb5ae0e8b420075ec58add6f36, type: 3}
+- Class: 114
+  Script: {fileID: -149572704, guid: 0929a3127c40824ef41eef744c4fc49b, type: 3}
+- Class: 114
+  Script: {fileID: -296257353, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
+- Class: 114
+  Script: {fileID: -788214902, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
+- Class: 114
+  Script: {fileID: 9237227, guid: dd1baa4f323651ee41781eb84b2b1960, type: 3}
+- Class: 114
+  Script: {fileID: 200649111, guid: 6db671ca2a10521151a0623ea7cc13c9, type: 3}
+- Class: 114
+  Script: {fileID: -686023896, guid: bcb85dd25e41826ab5a7dea12cff2430, type: 3}
+- Class: 114
+  Script: {fileID: -598504670, guid: 6e68475ee52ce568acbd493b99ce126d, type: 3}
+- Class: 114
+  Script: {fileID: -1604455801, guid: fb0076526bca5246b24d6c818d68ce00, type: 3}
+- Class: 114
+  Script: {fileID: -630110892, guid: 1ae21b0c7c908882e31fedf7e1f7f92c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Timberborn.BlockSystem
+  ClassName: Timberborn.BlockSystem.BlockSpecification
+- AssemblyName: Timberborn.BlockSystem
+  ClassName: Timberborn.BlockSystem.BlocksSpecification
+- AssemblyName: Timberborn.BlockSystem
+  ClassName: Timberborn.BlockSystem.CustomPivotSpecification
+- AssemblyName: Timberborn.BlockSystem
+  ClassName: Timberborn.BlockSystem.EntranceBlockSpecification
+- AssemblyName: Timberborn.Clusters
+  ClassName: Timberborn.Clusters.ConnectableBlock
+- AssemblyName: Timberborn.Goods
+  ClassName: Timberborn.Goods.GoodAmountSpecification
+- AssemblyName: Timberborn.NeedApplication
+  ClassName: Timberborn.NeedApplication.NeedApplierEffectSpecification
+- AssemblyName: Timberborn.SlotSystem
+  ClassName: Timberborn.SlotSystem.TransformSlotSpecification
+- AssemblyName: Timberborn.WorkSystem
+  ClassName: Timberborn.WorkSystem.WorkerTypeUnlockCost
+Assets:
+- Assets/PackingPlant/PackingPlantIronTeeth.prefab
+- Assets/PackingPlant/FoodPackBakeryIcon.png
+- Assets/PackingPlant/FoodPackGrillIcon.png
+- Assets/PackingPlant/FoodPackAllIcon.png
+- Assets/Shader/Shader GraphsEnvironmentURP.shader
+- Assets/PackingPlant/FoodPackLuxuryIcon.png
+- Assets/PackingPlant/PackingPlant.prefab
+- Assets/PackingPlant/FoodPackBasicIcon.png
+Dependencies: []
