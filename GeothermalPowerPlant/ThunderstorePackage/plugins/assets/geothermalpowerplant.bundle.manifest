@@ -1,0 +1,137 @@
+ManifestFileVersion: 0
+CRC: 1398493300
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7be39787b8f67a8c38fd218936e59426
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aad6a7dd385a706ec47ac3599dc5948e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 443178000, guid: a01d35f43886f4b46e413d3c2ea20811, type: 3}
+- Class: 114
+  Script: {fileID: 1794062130, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
+- Class: 114
+  Script: {fileID: 1061738130, guid: 9d9a15fd937d3c3e3eda286523371813, type: 3}
+- Class: 114
+  Script: {fileID: 1700995066, guid: 9d9a15fd937d3c3e3eda286523371813, type: 3}
+- Class: 114
+  Script: {fileID: 1933283616, guid: 9d9a15fd937d3c3e3eda286523371813, type: 3}
+- Class: 114
+  Script: {fileID: -935546291, guid: 9d9a15fd937d3c3e3eda286523371813, type: 3}
+- Class: 114
+  Script: {fileID: -790041461, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
+- Class: 114
+  Script: {fileID: -460516431, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
+- Class: 114
+  Script: {fileID: 541562997, guid: 3d08eaebc9cf2cdafcd1795ddf8771cc, type: 3}
+- Class: 114
+  Script: {fileID: -1612892808, guid: d2469c2f44f08c8986f7616cd6611c77, type: 3}
+- Class: 114
+  Script: {fileID: -789200235, guid: 0ff017bfb6525dc7a8977d5ef121393d, type: 3}
+- Class: 114
+  Script: {fileID: 649756421, guid: 0ff017bfb6525dc7a8977d5ef121393d, type: 3}
+- Class: 114
+  Script: {fileID: 294790411, guid: b6cb9fb40e6a9dd39b069e7f18c050b3, type: 3}
+- Class: 114
+  Script: {fileID: -1514884223, guid: a01d35f43886f4b46e413d3c2ea20811, type: 3}
+- Class: 114
+  Script: {fileID: -1804725900, guid: 71874a96862cca0445075c2f72e705bf, type: 3}
+- Class: 114
+  Script: {fileID: -455950880, guid: 71874a96862cca0445075c2f72e705bf, type: 3}
+- Class: 114
+  Script: {fileID: -1496982017, guid: 71874a96862cca0445075c2f72e705bf, type: 3}
+- Class: 114
+  Script: {fileID: -1680664112, guid: 2cf0d2a7e560d63c9cb2673a04d45d56, type: 3}
+- Class: 114
+  Script: {fileID: 1061827656, guid: 644d38e445b7eca3e081836e52ade497, type: 3}
+- Class: 114
+  Script: {fileID: -441363965, guid: 644d38e445b7eca3e081836e52ade497, type: 3}
+- Class: 114
+  Script: {fileID: 1800879565, guid: c1ff95bb5ae0e8b420075ec58add6f36, type: 3}
+- Class: 114
+  Script: {fileID: -871492198, guid: c1ff95bb5ae0e8b420075ec58add6f36, type: 3}
+- Class: 114
+  Script: {fileID: -149572704, guid: 0929a3127c40824ef41eef744c4fc49b, type: 3}
+- Class: 114
+  Script: {fileID: -296257353, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
+- Class: 114
+  Script: {fileID: -788214902, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
+- Class: 114
+  Script: {fileID: 9237227, guid: dd1baa4f323651ee41781eb84b2b1960, type: 3}
+- Class: 114
+  Script: {fileID: 406104335, guid: 79523a2b71f4fae881a60ad2e723d456, type: 3}
+- Class: 114
+  Script: {fileID: 200649111, guid: 6db671ca2a10521151a0623ea7cc13c9, type: 3}
+- Class: 114
+  Script: {fileID: -686023896, guid: bcb85dd25e41826ab5a7dea12cff2430, type: 3}
+- Class: 114
+  Script: {fileID: -598504670, guid: 6e68475ee52ce568acbd493b99ce126d, type: 3}
+- Class: 114
+  Script: {fileID: -1604455801, guid: fb0076526bca5246b24d6c818d68ce00, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Timberborn.BlockSystemNavigation
+  ClassName: Timberborn.BlockSystemNavigation.BlockObjectNavMeshEdgeSpecification
+- AssemblyName: Timberborn.BlockSystem
+  ClassName: Timberborn.BlockSystem.BlockSpecification
+- AssemblyName: Timberborn.BlockSystem
+  ClassName: Timberborn.BlockSystem.BlocksSpecification
+- AssemblyName: Timberborn.BlockSystem
+  ClassName: Timberborn.BlockSystem.CustomPivotSpecification
+- AssemblyName: Timberborn.BlockSystem
+  ClassName: Timberborn.BlockSystem.EntranceBlockSpecification
+- AssemblyName: Timberborn.BonusSystem
+  ClassName: Timberborn.BonusSystem.BonusSpecification
+- AssemblyName: Timberborn.Clusters
+  ClassName: Timberborn.Clusters.ConnectableBlock
+- AssemblyName: Timberborn.Goods
+  ClassName: Timberborn.Goods.GoodAmountSpecification
+- AssemblyName: Timberborn.NeedApplication
+  ClassName: Timberborn.NeedApplication.NeedApplierEffectSpecification
+- AssemblyName: Timberborn.SlotSystem
+  ClassName: Timberborn.SlotSystem.TransformSlotSpecification
+- AssemblyName: Timberborn.WorkSystem
+  ClassName: Timberborn.WorkSystem.WorkerTypeUnlockCost
+Assets:
+- Assets/HotDryRockTurbine/CoolingTower.IT.prefab
+- Assets/HotDryRockTurbine/GeothermalPowerPlant.IT.prefab
+- Assets/HotDryRockTurbine/GeothermalPowerPlant.prefab
+- Assets/HotDryRockTurbine/CoolingTower.prefab
+Dependencies:
+- "D:/UnityProjects/PackingPlant/\u65B0\u3057\u3044\u30D5\u30A9\u30EB\u30C0\u30FC/packingplant"
