@@ -1,4 +1,10 @@
 ID,Text,Comment
-minorunara.ToriiGates.10xDistributionPost.DisplayName,10x Distribution Post
-minorunara.ToriiGates.10xDistributionPost.Description,A distribution post where one beaver can export the equivalent of 10 regular beavers' worth of cargo to other districts.
-minorunara.ToriiGates.10xDistributionPost.Flavor,"""It's impossible to ship with just this little cargo. We need to accumulate at least 38 kg of cargo."" wholesale beaver"
+minorunara.10xDistributionPost.10xDistributionPost.DisplayName,10x Distribution Post
+minorunara.10xDistributionPost.10xDistributionPost.Description,A distribution post where one beaver can export the equivalent of 10 regular beavers' worth of cargo to other districts.
+minorunara.10xDistributionPost.10xDistributionPost.Flavor,"""It's impossible to ship with just this little cargo. We need to accumulate at least 50 kg of cargo."" -wholesale beaver"
+minorunara.10xDistributionPost.LargeDropOffPoint.DisplayName,Drop-off Market
+minorunara.10xDistributionPost.LargeDropOffPoint.Description,An unloading area designed to accept large quantities of cargo and beavers at once. Even if 500 beavers visit at once there is no queue to wait their turn. Capacity: 2000
+minorunara.10xDistributionPost.LargeDropOffPoint.Flavor,"""Thanks to advances in logistics, maple pastries from far-flung districts are now readily available. It takes one cycle to arrive, though."" -Pina"
+minorunara.10xDistributionPost.SmallDropOffPoint.DisplayName,Small Distribution Post
+minorunara.10xDistributionPost.SmallDropOffPoint.Description,A distribution post for very small districts. Capacity is also small.
+minorunara.10xDistributionPost.SmallDropOffPoint.Flavor,"""It's what we now call Bver Eats."" —Pina"
