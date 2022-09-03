@@ -4,7 +4,7 @@ minorunara.GeothermalPowerPlant.GeothermalPowerPlant.DisplayName,Hot Dry Rock Ge
 minorunara.GeothermalPowerPlant.GeothermalPowerPlant.Description,Water is injected into hot rock deep underground and the steam generated produces energy. Consumes large amounts of water. Note: Nothing can be built on top except a cooling tower.
 minorunara.GeothermalPowerPlant.GeothermalPowerPlant.FlavorDescription,"Why hoomans created the abyss is not known, anyway, there are hot rocks."
 minorunara.GeothermalPowerPlant.CoolingTower.DisplayName,Cooling Tower
-minorunara.GeothermalPowerPlant.CoolingTower.Description,The steam from a geothermal power plant is cooled by air and some water is recovered. Consume metal because the heat exchanger rusts. Danger of serious burns due to handling of boiling water. Note: Can only be built on top of a Hot Dry Rock Geothermal Turbine.
+minorunara.GeothermalPowerPlant.CoolingTower.Description,The steam from a geothermal power plant is cooled by air and some water is recovered. Consume metal because the heat exchanger rusts. Danger of serious burns due to handling of boiling water. Note: Can only be built on top of a Hot Dry Rock Geothermal Turbine. Hint: cooling tower water recovery rates are affected by working speed.
 minorunara.GeothermalPowerPlant.CoolingTower.FlavorDescription,"Beavers in other districts often misunderstand that, but this building is not for evaporating water, but for collecting it."
 
 minorunara.GeothermalPowerPlant.Need.RadiationExposure.DeathMessage,{0} was killed by acute radiation syndrome.
