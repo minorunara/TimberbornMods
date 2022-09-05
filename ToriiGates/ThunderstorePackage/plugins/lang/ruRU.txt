@@ -1,0 +1,48 @@
+ID,Text,Comment
+minorunara.ToriiGates.PrimitiveToriiGate.DisplayName, Примитивные тории, Using "«»–" symbols in quotes to match official translations
+minorunara.ToriiGates.PrimitiveToriiGate.Description,"Примитивные тории, сложенные из брёвен."
+minorunara.ToriiGates.PrimitiveToriiGate.Flavor,"Доподлинно неизвестно, зачем строились тории, но преобладающая теория, что это было подношения вкусных брёвен для вождя."
+minorunara.ToriiGates.SimpleToriiGate.DisplayName,Простые тории
+minorunara.ToriiGates.SimpleToriiGate.Description,Простые тории из досок.
+minorunara.ToriiGates.SimpleToriiGate.Flavor,"«Какие аппетитные врата!» – Пина"
+minorunara.ToriiGates.DemoToriiGate.DisplayName,Деморийские тории
+minorunara.ToriiGates.DemoToriiGate.Description,"Это репродукция тории из демо-версии игры.",This is a reproduction of the torii gate that existed when Timberborn was still a demo version.
+minorunara.ToriiGates.DemoToriiGate.Flavor,"«Вкус истории!» – Пина"
+minorunara.ToriiGates.IronToriiGate.DisplayName,Железные тории
+minorunara.ToriiGates.IronToriiGate.Description,"Шинмей-тории, изготовленные из металла.", "я буду пользоваться системой подобной Хэпбёрну, любителям Поливанова - делайте свой перевод"
+minorunara.ToriiGates.IronToriiGate.Flavor,"Бобры частенько грызли деревянные тории, так что мы пришли к решению из металла."
+minorunara.ToriiGates.TreatedToriiGate.DisplayName,"Украшенные тории"
+minorunara.ToriiGates.TreatedToriiGate.Description,"Мйоджин-тории из смолёных досок."
+minorunara.ToriiGates.TreatedToriiGate.Flavor,"Роскошные тории, вырезанные из лучшей древесины и тщательно просмоленные. Сообщество постоянно присмативает за ними, чтобы ни у кого не возникло мысли погрызть их."
+minorunara.ToriiGates.HugeToriiGateFT.DisplayName,Велечиственные деревянные тории
+minorunara.ToriiGates.HugeToriiGateFT.Description,"Тории Храма Ицукушима - такие огромные, что их, кажется, не скрыть водами даже самой высокой плотины."
+minorunara.ToriiGates.HugeToriiGateFT.Flavor,"Соединение сил природы и технологии привело нас к созданию этих величественных врат, устойчивых к резцам вандалов."
+minorunara.ToriiGates.HugeToriiGateIT.DisplayName,Велечиственные металлические тории
+minorunara.ToriiGates.HugeToriiGateIT.Description,"Тории храма Кумано Хонгу Тайша такие огромные, что их видно из любого района. Что и говорить - они не съедобны."
+minorunara.ToriiGates.HugeToriiGateIT.Flavor,"«Но я думала тории задумывались как угощение для великих бобров?» – Пина"
+minorunara.ToriiGates.ToriiCategory.DisplayName,Врата тории
+minorunara.ToriiGates.ToriiCategory.Description,"Слава Шинто-бобрам!"
+
+minorunara.ToriiGates.OrdinaryToriiGateNeed.DisplaynameLocKey,Обычные тории
+minorunara.ToriiGates.GorgeousToriiGateNeed.DisplaynameLocKey,Искусные тории
+minorunara.ToriiGates.GreatToriiGateNeed.DisplaynameLocKey,Величественные тории
+
+minorunara.Lantern.ForwardFacingBench.DisplayName,Развёрнутая скамейка
+minorunara.Lantern.ForwardFacingBench.Description,"Скамейка, развёрнутая спиной к дороге."
+minorunara.Lantern.ForwardFacingBench.Flavor,"«Как они туда залезают?» – pmduda"
+minorunara.Lantern.LanternCategory.DisplayName,Фонари
+minorunara.Lantern.IndoorLantern.DisplayName,Комнатный фонарь
+minorunara.Lantern.IndoorLantern.Description,"Хотя он и называется комнатным, на улице его тоже можно поставить."
+minorunara.Lantern.IndoorLantern.Flavor,"Когда-то мы были ночными животными, чтобы избегать наших естественных врагов. Теперь мы дневные жители, мы больше ничего не боимся."
+minorunara.Lantern.StreetLantern.DisplayName,"Уличный андон"
+minorunara.Lantern.StreetLantern.Description,"Цуджи андон, уличная разновидность фонаря андон, которая устанавливалась у постов и вдоль дорог. Так же их используют как вывески для магазинов."
+minorunara.Lantern.StreetLantern.Flavor,"Идея сделать подсвеченные вывески для магазинов вдохнула жизни в ночной город."
+minorunara.Lantern.GardenLantern.DisplayName,"Садовый фонарь"
+minorunara.Lantern.GardenLantern.Description,"Эти фонари часто ставят в садах и при храмах."
+minorunara.Lantern.GardenLantern.Flavor,"«Что такое Дзен? Это вкусно?» – Пина"
+minorunara.Lantern.ModernLantern1.DisplayName,"Современный треугольный фонарь"
+minorunara.Lantern.ModernLantern1.Description,"Уличный фонарь в современном стиле с треугольной крышей."
+minorunara.Lantern.ModernLantern1.Flavor,"Бобрам, победившим ночную тьму нечего бояться. Кроме засухи."
+minorunara.Lantern.ModernLantern2.DisplayName,"Современный квадратный фонарь"
+minorunara.Lantern.ModernLantern2.Description,"Уличный фонарь квадратной формы в современном стиле ."
+minorunara.Lantern.ModernLantern2.Flavor,"Настоящие неизбежно станет прошлым. Но важность плотин сохраниться и в будущем."
