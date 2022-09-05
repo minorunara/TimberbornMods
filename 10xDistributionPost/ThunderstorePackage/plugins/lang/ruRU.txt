@@ -1,0 +1,10 @@
+ID,Text,Comment
+minorunara.10xDistributionPost.10xDistributionPost.DisplayName,10x Логистический центр, Using "«»–" symbols in quotes to match official translations
+minorunara.10xDistributionPost.10xDistributionPost.Description,"Большой логистический пункт из которого бобёр за раз может забрать в 10 раз больше груза для доставки в другие районы."
+minorunara.10xDistributionPost.10xDistributionPost.Flavor,"«Не положено с недогрузом ходить! Надо хотя бы 50 килограммов набрать.» – распорядитель"
+minorunara.10xDistributionPost.LargeDropOffPoint.DisplayName,Разгрузочная база
+minorunara.10xDistributionPost.LargeDropOffPoint.Description,"Разгрузочная зона рассчитанная на большое количество грузов и посетителей. Даже 500 бобров за раз не соберут очередь. Вместимость: 2000."
+minorunara.10xDistributionPost.LargeDropOffPoint.Flavor,"«Благодаря улучшенной логистике, кленовые слойки из дальних районов доступны повсюду. Иногда спустя сезон.» – Пина"
+minorunara.10xDistributionPost.SmallDropOffPoint.DisplayName,Малый логистический пост
+minorunara.10xDistributionPost.SmallDropOffPoint.Description,Логистический пункт для маленьких районов. Вместимость тоже скромная.
+minorunara.10xDistributionPost.SmallDropOffPoint.Flavor,"«Это офис Бобр.Еда?» – Пина"
