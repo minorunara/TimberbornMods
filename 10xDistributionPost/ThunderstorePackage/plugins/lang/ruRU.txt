@@ -5,6 +5,6 @@ minorunara.10xDistributionPost.10xDistributionPost.Flavor,"«Не положен
 minorunara.10xDistributionPost.LargeDropOffPoint.DisplayName,Разгрузочная база
 minorunara.10xDistributionPost.LargeDropOffPoint.Description,"Разгрузочная зона рассчитанная на большое количество грузов и посетителей. Даже 500 бобров за раз не соберут очередь. Вместимость: 2000."
 minorunara.10xDistributionPost.LargeDropOffPoint.Flavor,"«Благодаря улучшенной логистике, кленовые слойки из дальних районов доступны повсюду. Иногда спустя сезон.» – Пина"
-minorunara.10xDistributionPost.SmallDropOffPoint.DisplayName,Малый логистический пост
-minorunara.10xDistributionPost.SmallDropOffPoint.Description,Логистический пункт для маленьких районов. Вместимость тоже скромная.
-minorunara.10xDistributionPost.SmallDropOffPoint.Flavor,"«Это офис Бобр.Еда?» – Пина"
+minorunara.10xDistributionPost.SmallDistributionPost.DisplayName,Малый логистический пост
+minorunara.10xDistributionPost.SmallDistributionPost.Description,Логистический пункт для маленьких районов. Вместимость тоже скромная.
+minorunara.10xDistributionPost.SmallDistributionPost.Flavor,"«Это офис Бобр.Еда?» – Пина"

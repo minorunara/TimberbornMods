@@ -5,6 +5,6 @@ minorunara.10xDistributionPost.10xDistributionPost.Flavor,「これっぽっち�
 minorunara.10xDistributionPost.LargeDropOffPoint.DisplayName,荷降ろし駅
 minorunara.10xDistributionPost.LargeDropOffPoint.Description,大量の貨物とビーバーを一度に受け入れられるように設計された宿場。500匹のビーバーが一度に訪れたとしても順番待ちが発生しない。容量：2000
 minorunara.10xDistributionPost.LargeDropOffPoint.Flavor,「物流の進歩のおかげで、遠く離れた地区のメープルペストリーが簡単に手に入るようになった。届くのに1ヶ月掛かるけど。」-ピナ
-minorunara.10xDistributionPost.SmallDropOffPoint.DisplayName,小さな配給拠点
-minorunara.10xDistributionPost.SmallDropOffPoint.Description,小規模な地区のための配給拠点。キャパシティは小さい。
-minorunara.10xDistributionPost.SmallDropOffPoint.Flavor,「今で言うビーバーイーツってやつだね。」-ピナ
+minorunara.10xDistributionPost.SmallDistributionPost.DisplayName,小さな配給拠点
+minorunara.10xDistributionPost.SmallDistributionPost.Description,小規模な地区のための配給拠点。キャパシティは小さい。
+minorunara.10xDistributionPost.SmallDistributionPost.Flavor,「今で言うビーバーイーツってやつだね。」-ピナ

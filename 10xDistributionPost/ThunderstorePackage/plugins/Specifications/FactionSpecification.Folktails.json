@@ -1,5 +1,7 @@
 {
   "CommonBuildings": [
-    "minorunara.Timberborn.10xDistribution/distributionpost.bundle/10xDistributionPost.FT"
+    "minorunara.Timberborn.10xDistribution/distributionpost.bundle/10xDistributionPost.FT",
+    "minorunara.Timberborn.10xDistribution/distributionpost.bundle/LargeDropOffPoint",
+    "minorunara.Timberborn.10xDistribution/distributionpost.bundle/SmallDistributionPost.FT"
   ]
 }

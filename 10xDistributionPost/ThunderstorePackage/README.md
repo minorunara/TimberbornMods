@@ -1,12 +1,32 @@
 ## Beavers Edition of Transport Tycoon
 
-This mod adds a distribution post that grants 10x strength to workers. This means that a beaver can export 100 kg (plus potatoes and other bonuses) and a golem 150 kg at a time.
+This mod adds a facility that will help you when you want to build up a transport empire for your beavers.
 
-![DemoVerToriiGate](https://github.com/minorunara/TimberbornMods/blob/main/10xDistributionPost/attachments/10xDistribution.png?raw=true)
+There are currently 3 facilities.
+
+### 10x Distribution Post
+
+a distribution post that grants 10x strength to workers. This means that a beaver can export 140 kg and a golem 200 kg at a time.
+
+![10xDistribution](https://github.com/minorunara/TimberbornMods/blob/main/10xDistributionPost/attachments/10xDistribution.png?raw=true)
+
+### Drop-off Market
+
+It requires construction costs and is a bit large, but it is a drop-off point that can store 2,000 cargoes.
+
+Furthermore, even if many beavers visit all at once, there is no queue to wait their turn. (In the base game, warehouses and drop-off points can become congested when many beavers visit all at once.) This will be especially useful for packaged food products that are prone to crowding.
+
+![LargeDropOffPoint](https://github.com/minorunara/TimberbornMods/blob/main/10xDistributionPost/attachments/LargeDropOffPoint.png?raw=true)
+
+### Small Distribution Post
+
+Space-saving 2x2 distribution post. For import/export to/from smaller districts due to low transport capacity.
+
+![SmallDistributionPost](https://github.com/minorunara/TimberbornMods/blob/main/10xDistributionPost/attachments/SmallDistributionPost.png?raw=true)
 
 ## Disclaimer!
 
-This mod is currently only supported in the **experimental** version (v0.2.2.1) of Timberborn. Other versions will probably not work (and may crash the game).
+This mod is currently only supported in version 0.2.5.3 of Timberborn. Other versions will probably not work (and may crash the game).
 
 ## Install
 
@@ -16,14 +36,20 @@ Remember that you will also need to install any mods that are dependencies.
 
 ## How to use
 
-You should find the 10x Distribution Post under the labor tab.
+You should find under the labor tab.
 
 ## Caution
-- Workers at distribution posts will not export shipments less than 25% of the weight they can carry. Therefore, it is not suitable for transporting small quantities of cargo.
+- Workers at distribution posts will not export shipments less than 25% of the weight they can carry. (except when set by district distribution limits. e.g. if the upper limit of the destination district is 100 and the district has only 99 items, the worker will export only 1 item.)
 
 - The drop-off point has a capacity of only 300 and cannot accept too many routes.
 
-- The 10x distribution post will buffer 150 units of items per route. You can revert by deleting a route.
+- If multiple routes are to be established for a single drop-off market, the district distribution limits should be carefully set. For example, if the district is set to accept more than 2000 (including ∞) loaves of bread, the market will be full of bread and will not accept other items.
+
+- The 10x distribution post will buffer 200 units of items per route. You can revert by deleting a route. However, there must be room in the warehouse that is set up to accept the item.
+
+- It is more efficient to have a warehouse to store items to be exported near the distribution center. When daisy-chaining multiple districts, it is a good idea to have drop-off points and distribution posts close together.
+
+![DaisyChainExample](https://github.com/minorunara/TimberbornMods/blob/main/10xDistributionPost/attachments/DaisyChainExample.png?raw=true)
 
 ## Other general tips
 - Keep distribution posts and destinations as close as possible. Distance greatly affects efficiency. If the destinations are very far apart, it makes sense to create a relay district in between.
@@ -39,11 +65,43 @@ This mod was made from Elec's ExtendedArchitecture, so the license follows the o
 
 https://github.com/Timberborn-Modding-Central/ExtendedArchitecture/tree/main/Assets/ExtendedArchitecture
 
-## Known Issues
-
-The bonus (Swimming Speed +30%) for the 10x Distribution Post is currently not working. This is probably a bug in the vanilla game.
-
 ## Changelog
+
+### 1.2.0  Target game version is (v0.2.5.3)  - 2022/08/27
+
+A Small Distribution Post has been added.
+
+10x Distribution Posts now have lights.
+
+### 1.1.1(hot fix)  Target game version is (v0.2.5.0)  - 2022/08/25
+
+Timberborn version v0.2.5.0 is now supported.
+
+Swimming buffs were removed from the base game and no longer function.
+
+Because of the increased default strength, the amount that beavers and golems can carry has increased.
+
+The buffer per route was accordingly increased to 200.
+
+### 1.1.0  Target game version is (v0.2.4.1)  - 2022/08/23
+
+Drop-off market added.
+
+The floor texture of the 10x distribution post in Folktail has been changed to plank.
+
+### 1.0.3  Target game version is (v0.2.3.1)  - 2022/08/06
+
+Fixed a bug in version 0.2.3.1 of Timberborn that prevented construction from progressing.
+
+Migrated to Unity version 2022.1.6f1.
+
+The model was changed.
+
+Shaders have been changed.
+
+### 1.0.2 - 2022/08/01
+
+The number of routes was increased from 6 to 10.
 
 ### 1.0.1 - 2022/07/23
 
