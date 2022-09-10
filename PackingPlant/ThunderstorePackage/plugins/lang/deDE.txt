@@ -1,0 +1,17 @@
+ID,Text,Comment
+minorunara.Good.FoodPackAll.DisplayName,Nahrungspaket\r\n(Alles)
+minorunara.Good.FoodPackAll.PluralDisplayName,Nahrungspaket\r\n(Alles)
+minorunara.Manufactory.Recipe.FoodPackAll.Packing,Nahrungspaket\r\n(Alles)
+minorunara.Good.FoodPackBasic.DisplayName,Nahrungspaket\r\n(Basis)
+minorunara.Good.FoodPackBasic.PluralDisplayName,Nahrungspaket\r\n(Basis)
+minorunara.Manufactory.Recipe.FoodPackBasic,Nahrungspaket\r\n(Basis)
+minorunara.Good.FoodPackGrill.DisplayName,Nahrungspaket\r\n(Grill)
+minorunara.Good.FoodPackGrill.PluralDisplayName,Nahrungspaket\r\n(Grill)
+minorunara.Manufactory.Recipe.FoodPackGrill,Nahrungspaket\r\n(Grill)
+minorunara.Good.FoodPackBakery.DisplayName,Nahrungspaket\r\n(Bäckerei)
+minorunara.Good.FoodPackBakery.PluralDisplayName,Nahrungspaket\r\n(Bäckerei)
+minorunara.Manufactory.Recipe.FoodPackBakery.Packing,Nahrungspaket\r\n(Bäckerei)
+minorunara.PackingPlant.PackingPlant.DisplayName,"Pack-Station"
+minorunara.PackingPlant.PackingPlant.Description,Eine Fabrik in der Nahrung zusammengepackt wird um Logistik und Lagerung zu vereinfachen.
+minorunara.PackingPlant.PackingPlant.Flavor,"\u201ESicher, es schmeckt gut, aber es schmeckt gleich egal in welchen Distrikt ich gehe, also ist das Vergnügen der Besichtigungstouren verloren gegangen.\u201C \u2013 Pina"
+minorunara.PackingPlant.FoodPackNeed.DisplaynameLocKey,Nahrungspaket

@@ -1,0 +1,13 @@
+ID,Text,Comment
+minorunara.Manufactory.Recipe.SteamCooling,Dampfkühlung
+minorunara.GeothermalPowerPlant.GeothermalPowerPlant.DisplayName,Geothermiekraftwerk\r\n(Hot-Dry-Rock-System)
+minorunara.GeothermalPowerPlant.GeothermalPowerPlant.Description,Es wird Wasser in das heiße Gestein im Untergrund gepresst und der aufsteigende Dampf wird in Energie gewandelt. Verbraucht große Mengen Wasser. Achtung: Kann nur mit einem Kühlturm überbaut werden.
+minorunara.GeothermalPowerPlant.GeothermalPowerPlant.FlavorDescription,"Warum die Menschen den Abgrund geschaffen haben, ist nicht bekannt, jedenfalls gibt es dort heißes Gestein."
+minorunara.GeothermalPowerPlant.CoolingTower.DisplayName,Kühlturm
+minorunara.GeothermalPowerPlant.CoolingTower.Description,Der Dampf eines Geothermiekraftwerks wird mit Luft gekühlt und ein Teil des Wassers wird zurückgewonnen. Verbraucht Metall weil der Wärmetauscher rostet. Gefahr von schweren Verbrennungen durch den Umgang mit kochendem Wasser. Achtung: Kann nur auf einem Geothermiekraftwerk gebaut werden. Hinweis: die Wasserrückgewinnungsrate im Kühlturm wird durch die Arbeitsgeschwindigkeit beeinflusst.
+minorunara.GeothermalPowerPlant.CoolingTower.FlavorDescription,"Biber in anderen Distrikten missverstehen das oft, aber dieses Gebäude ist nicht zum Verdunsten von Wasser da, sondern zum Sammeln von Wasser."
+
+minorunara.GeothermalPowerPlant.Need.RadiationExposure.DeathMessage,{0} ist am akuten Strahlensyndrom gestorben., unused
+minorunara.GeothermalPowerPlant.Need.RadiationExposure.Critical,DNA geschädigt., unused
+minorunara.GeothermalPowerPlant.RadiationExposure.DisplaynameLocKey,Strahlenbelastung, unused
+minorunara.GeothermalPowerPlant.RadiationExposure.CriticalDescription,DNA Schaden, unused
