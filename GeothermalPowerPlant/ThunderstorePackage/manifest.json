@@ -1,6 +1,6 @@
 {
   "name": "GeothermalPowerPlant",
-  "version_number": "1.0.0",
+  "version_number": "1.0.2",
   "website_url": "https://github.com/minorunara/TimberbornMods/",
   "description": "Add a geothermal power plant that could be built on top of the underground ruins.",
   "dependencies": [
