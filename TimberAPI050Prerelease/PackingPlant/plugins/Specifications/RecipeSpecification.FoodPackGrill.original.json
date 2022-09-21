@@ -1,0 +1,40 @@
+{
+  "Id": "FoodPackGrill",
+  "DisplayLocKey": "minorunara.Manufactory.Recipe.FoodPackGrill",
+  "CycleDurationInHours": 0.2,
+  "CyclesCapacity": 40,
+  "Ingredients": [
+    {
+      "Good": {
+        "Id": "GrilledPotato"
+      },
+      "Amount": 1
+    },
+    {
+      "Good": {
+        "Id": "GrilledChestnut"
+      },
+      "Amount": 1
+    },
+    {
+      "Good": {
+        "Id": "GrilledSpadderdock"
+      },
+      "Amount": 1
+    }
+  ],
+  "Products": [
+    {
+      "Good": {
+        "Id": "FoodPackGrill"
+      },
+      "Amount": 3
+    }
+  ],
+  "ProducedSciencePoints": 0,
+  "Fuel": {
+    "Id": "Paper"
+  },
+  "CyclesFuelLasts": 10,
+  "FuelCapacity": 30
+}

@@ -1,0 +1,13 @@
+ID,Text,Comment
+minorunara.Manufactory.Recipe.SteamCooling,Конденсация пара, Using "«»–" symbols in quotes to match official translations
+minorunara.GeothermalPowerPlant.GeothermalPowerPlant.DisplayName,Геотермальная турбина
+minorunara.GeothermalPowerPlant.GeothermalPowerPlant.Description,"Геотермальная циркуляционная система закачивает воду в глубокую скважину, где она превращается в пар от разогретых пород и, возвращаясь, отдает энергию турбине. Расходует большое количество воды. Прим.: сверху может быть установлена только градирня."
+minorunara.GeothermalPowerPlant.GeothermalPowerPlant.FlavorDescription,"Непонятно, зачем человеки выкопали эту бездну, но внизу есть раскалённые камни, которые мы можем использовать.", "I'm using 'человеки' intentionally as translation for 'hoomans' (Actually pmduda confirms official usage)"
+minorunara.GeothermalPowerPlant.CoolingTower.DisplayName,Градирня
+minorunara.GeothermalPowerPlant.CoolingTower.Description,"Пар от турбины охлаждается атмосферным воздухом и часть его конденсируется для повторного использования. Постоянно требует металл из-за коррозии в теплообменнике. Берегитесь ожогов паром и кипятком! Прим.: может быть построена только над геотермальной турбиной. Подсказка: количество конденсируемого пара зависит от скорости работы."
+minorunara.GeothermalPowerPlant.CoolingTower.FlavorDescription,"Бобры из других районов часто недопонимали, что назначение этого сооружения в сборе воды, а не испарении."
+
+minorunara.GeothermalPowerPlant.Need.RadiationExposure.DeathMessage,{0} скончался от острой лучевой болезни.
+minorunara.GeothermalPowerPlant.Need.RadiationExposure.Critical,Повреждение ДНК.
+minorunara.GeothermalPowerPlant.RadiationExposure.DisplaynameLocKey,Радиоционное облучение
+minorunara.GeothermalPowerPlant.RadiationExposure.CriticalDescription,Повреждение ДНК

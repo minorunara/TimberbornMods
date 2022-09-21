@@ -1,0 +1,17 @@
+{
+  "Name": "PackingPlant",
+  "Version": "1.0.0",
+  "UniqueId": "packingplant",
+  "MinimumApiVersion": "0.5.0",
+  "MinimumGameVersion": "0.2.8.1",
+  "Assets": [
+    {
+      "Prefix": "minorunara.Timberborn.PackingPlant",
+      "Scenes": [
+        "InGame"
+      ]
+    }
+  ],
+  "Dependencies": [
+  ]
+}

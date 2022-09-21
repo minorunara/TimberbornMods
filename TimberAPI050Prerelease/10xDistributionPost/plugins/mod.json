@@ -1,0 +1,15 @@
+{
+  "Name": "10xDistributionPost",
+  "Version": "1.2.1",
+  "UniqueId": "10xdistributionpost",
+  "MinimumApiVersion": "0.5.0",
+  "MinimumGameVersion": "0.2.8.1",
+  "Assets": [
+    {
+      "Prefix": "minorunara.Timberborn.10xDistribution",
+      "Scenes": [
+        "InGame"
+      ]
+    }
+  ]
+}

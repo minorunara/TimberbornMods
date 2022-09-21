@@ -1,0 +1,34 @@
+{
+    "Id": "FoodPackGrill",
+    "BackwardCompatibleIds": [
+    ],
+    "DisplayNameLocKey": "minorunara.Good.FoodPackGrill.DisplayName",
+    "PluralDisplayNameLocKey": "minorunara.Good.FoodPackGrill.PluralDisplayName",
+    "ConsumptionEffects": [
+      {
+        "NeedId": "Hunger",
+        "Points": 0.3
+      },
+      {
+        "NeedId": "GrilledPotatoes",
+        "Points": 0.19
+      },
+      {
+        "NeedId": "GrilledChestnuts",
+        "Points": 0.19
+      },
+      {
+        "NeedId": "GrilledSpadderdock",
+        "Points": 0.19
+      }
+    ],
+    "GoodType": "Box",
+    "VisibleContainer": {
+      "Value": "Box"
+    },
+    "CarryingAnimation": "CarryInHands",
+    "Weight": 1,
+    "TopBarGroupId": "Food",
+    "Icon": "minorunara.Timberborn.PackingPlant/packingplant/FoodPackGrillIcon",
+    "RequiredFeatureToggle": ""
+  }

@@ -1,0 +1,54 @@
+{
+    "Id": "FoodPackAll",
+    "BackwardCompatibleIds": [
+    ],
+    "DisplayNameLocKey": "minorunara.Good.FoodPackAll.DisplayName",
+    "PluralDisplayNameLocKey": "minorunara.Good.FoodPackAll.PluralDisplayName",
+    "ConsumptionEffects": [
+      {
+        "NeedId": "Hunger",
+        "Points": 0.3
+      },
+      {
+        "NeedId": "Carrots",
+        "Points": 0.1
+      },
+      {
+        "NeedId": "SunflowerSeeds",
+        "Points": 0.1
+      },
+      {
+        "NeedId": "GrilledPotatoes",
+        "Points": 0.1
+      },
+      {
+        "NeedId": "GrilledChestnuts",
+        "Points": 0.1
+      },
+      {
+        "NeedId": "GrilledSpadderdock",
+        "Points": 0.1
+      },
+      {
+        "NeedId": "Bread",
+        "Points": 0.1
+      },
+      {
+        "NeedId": "CattailCracker",
+        "Points": 0.1
+      },
+      {
+        "NeedId": "MaplePastry",
+        "Points": 0.106
+      }
+    ],
+    "GoodType": "Box",
+    "VisibleContainer": {
+      "Value": "Box"
+    },
+    "CarryingAnimation": "CarryInHands",
+    "Weight": 1,
+    "TopBarGroupId": "Food",
+    "Icon": "minorunara.Timberborn.PackingPlant/packingplant/FoodPackAllIcon",
+    "RequiredFeatureToggle": ""
+  }

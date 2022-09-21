@@ -1,0 +1,10 @@
+ID,Text,Comment
+minorunara.10xDistributionPost.10xDistributionPost.DisplayName,"10x Verteil-Station"
+minorunara.10xDistributionPost.10xDistributionPost.Description,"Eine Verteil-Station, die es einem Biber ermöglicht die gleiche Frachtmenge wie 10 Biber in andere Distrikte zu transportieren."
+minorunara.10xDistributionPost.10xDistributionPost.Flavor,"\u201EEs ist unmöglich so wenig Fracht zu versenden.\r\nWir benötigen mindestens 50 kg Frachtgut.\u201C\r\n \u2013 Großhandels-Biber"
+minorunara.10xDistributionPost.LargeDropOffPoint.DisplayName,"Abgabe-Markt"
+minorunara.10xDistributionPost.LargeDropOffPoint.Description,"Ein Abgabe-Markt, der die Abfertigung großer Frachtmengen und vieler Biber ermöglicht. Selbst wenn 500 Biber gleichzeitig erscheinen gibt es keine Warteschlange. Kapazität: 2000"
+minorunara.10xDistributionPost.LargeDropOffPoint.Flavor,"\u201EDank Verbesserungen in der Logistik sind Ahorngebäckstücke aus weit entfernten Distrikten gut verfügbar. Es dauert aber einen Zyklus bis sie ankommen.\u201C \u2013 Pina"
+minorunara.10xDistributionPost.SmallDistributionPost.DisplayName,"Kleine Verteil-Station"
+minorunara.10xDistributionPost.SmallDistributionPost.Description,Eine Verteil-Station mit kleiner Kapazität zum Transport in kleine Distrikte.
+minorunara.10xDistributionPost.SmallDistributionPost.Flavor,"\u201EWir nennen es jetzt Biber-Häppchen.\u201C \u2013 Pina"

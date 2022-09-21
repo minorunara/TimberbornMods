@@ -1,0 +1,17 @@
+ID,Text,Comment
+minorunara.Good.FoodPackAll.DisplayName,Комбинированный обед, Using "«»–" symbols in quotes to match official translations
+minorunara.Good.FoodPackAll.PluralDisplayName,Комбинированные обеды
+minorunara.Manufactory.Recipe.FoodPackAll.Packing,Комбинированные обеды
+minorunara.Good.FoodPackBasic.DisplayName,Базовый паёк
+minorunara.Good.FoodPackBasic.PluralDisplayName,Базовые пайки
+minorunara.Manufactory.Recipe.FoodPackBasic,Базовые пайки
+minorunara.Good.FoodPackGrill.DisplayName,Грилль-сет
+minorunara.Good.FoodPackGrill.PluralDisplayName,Грилль-сеты
+minorunara.Manufactory.Recipe.FoodPackGrill,Грилль-сеты
+minorunara.Good.FoodPackBakery.DisplayName,Набор выпечки
+minorunara.Good.FoodPackBakery.PluralDisplayName,Наборы выпечки
+minorunara.Manufactory.Recipe.FoodPackBakery.Packing,Наборы выпечки
+minorunara.PackingPlant.PackingPlant.DisplayName,Упаковочный цех
+minorunara.PackingPlant.PackingPlant.Description,"Предприятие по упаковке готовых продуктов для облегчения хранения и логистики."
+minorunara.PackingPlant.PackingPlant.Flavor,"«Да, эти упакованные обеды вкусные, но они одинаковые в каждом районе! Никакого гастрономического приключения!» – Пина"
+minorunara.PackingPlant.FoodPackNeed.DisplaynameLocKey,"Упакованная еда"

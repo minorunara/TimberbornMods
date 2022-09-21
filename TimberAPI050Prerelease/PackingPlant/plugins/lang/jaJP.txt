@@ -1,0 +1,17 @@
+ID,Text,Comment
+minorunara.Good.FoodPackAll.DisplayName,包装食品（全部入り）
+minorunara.Good.FoodPackAll.PluralDisplayName,包装食品（全部入り）
+minorunara.Manufactory.Recipe.FoodPackAll.Packing,包装食品（全部入り）
+minorunara.Good.FoodPackBasic.DisplayName,包装食品（基本定食）
+minorunara.Good.FoodPackBasic.PluralDisplayName,包装食品（基本定食）
+minorunara.Manufactory.Recipe.FoodPackBasic,包装食品（基本定食）
+minorunara.Good.FoodPackGrill.DisplayName,包装食品（グリル定食）
+minorunara.Good.FoodPackGrill.PluralDisplayName,包装食品（グリル定食）
+minorunara.Manufactory.Recipe.FoodPackGrill,包装食品（グリル定食）
+minorunara.Good.FoodPackBakery.DisplayName,包装食品（ベーカリー定食）
+minorunara.Good.FoodPackBakery.PluralDisplayName,包装食品（ベーカリー定食）
+minorunara.Manufactory.Recipe.FoodPackBakery.Packing,包装食品（ベーカリー定食）
+minorunara.PackingPlant.PackingPlant.DisplayName,梱包工場
+minorunara.PackingPlant.PackingPlant.Description,物流や倉庫管理の合理化のために食材を梱包する工場。
+minorunara.PackingPlant.PackingPlant.Flavor,確かに味は美味しいけど、どこの地区に行っても同じ味だから観光の楽しみが無くなっちゃったよ。—ピナ
+minorunara.PackingPlant.FoodPackNeed.DisplaynameLocKey,包装食品
