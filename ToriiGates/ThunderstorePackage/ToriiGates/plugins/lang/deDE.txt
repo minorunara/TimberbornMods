@@ -1,0 +1,49 @@
+ID,Text,Comment
+minorunara.ToriiGates.PrimitiveToriiGate.DisplayName,Primitives Torii
+minorunara.ToriiGates.PrimitiveToriiGate.Description,Primitives Torii aus Holzscheiten gefertigt.
+minorunara.ToriiGates.PrimitiveToriiGate.Flavor,"Es ist nicht genau bekannt, warum das Torii gebaut wurde, aber die vorherrschende Theorie besagt, dass es dazu diente, dem Biberkönig köstliche Holzscheite anzubieten."
+minorunara.ToriiGates.SimpleToriiGate.DisplayName,Einfaches Torii
+minorunara.ToriiGates.SimpleToriiGate.Description,Einfaches Torii aus Planken gefertigt.
+minorunara.ToriiGates.SimpleToriiGate.Flavor,"\u201EHey, das Torii sieht aber lecker aus!\u201C \u2013 Pina"
+minorunara.ToriiGates.DemoToriiGate.DisplayName,"Demo-Version Torii"
+minorunara.ToriiGates.DemoToriiGate.Description,"Dies ist eine Nachbildung des Torii, das es gab, als Timberborn noch eine Demo-Version war."
+minorunara.ToriiGates.DemoToriiGate.Flavor,"\u201EEs ist eine Kostprobe der Geschichte\u201C \u2013 Pina"
+minorunara.ToriiGates.IronToriiGate.DisplayName,Eisernes Torii
+minorunara.ToriiGates.IronToriiGate.Description,Shinmei Torii aus Eisen gebaut.
+minorunara.ToriiGates.IronToriiGate.Flavor,"Da viele Biber die einfachen Torii anknabbern, haben wir sie aus Eisen gefertigt, um dem entgegenzuwirken."
+minorunara.ToriiGates.TreatedToriiGate.DisplayName,Behandeltes Torii
+minorunara.ToriiGates.TreatedToriiGate.Description,Myojin Torii.
+minorunara.ToriiGates.TreatedToriiGate.Flavor,"Luxuriöses Torii aus feinstem Holz, behandelt mit Kiefernharz. Eine große Anzahl von Bibern wacht darüber, dass niemand daran knabbert."
+minorunara.ToriiGates.HugeToriiGateFT.DisplayName,Großes Holz-Torii
+minorunara.ToriiGates.HugeToriiGateFT.Description,"Das Torii des Itsukushima-Schreins ist so groß, dass es unmöglich scheint, es auf den Grund des Damms zu versenken."
+minorunara.ToriiGates.HugeToriiGateFT.Flavor,"Die Verschmelzung von Natur und Technik hat zur Entwicklung eines fortschrittlichen Toriis geführt, das resistent gegen das Anknabbern durch Biber ist."
+minorunara.ToriiGates.HugeToriiGateIT.DisplayName,Großes Metall-Torii
+minorunara.ToriiGates.HugeToriiGateIT.Description,"Das Torii des Kumano-Hongu-Taisha-Schreins ist so groß, dass man es von einem anderen Distrikt aus sehen kann. Unnötig zu sagen, dass es ungenießbar ist."
+minorunara.ToriiGates.HugeToriiGateIT.Flavor,"\u201EAber ich dachte, Torii wurden ursprünglich für die großartigen Biber zum Fressen gemacht?\u201C \u2013 Pina"
+minorunara.ToriiGates.ToriiCategory.DisplayName,Toriis
+minorunara.ToriiGates.ToriiCategory.Description,"Ein Hoch auf die Shinto-Biber!"
+
+minorunara.ToriiGates.OrdinaryToriiGateNeed.DisplaynameLocKey,Gewöhnliches Torii
+minorunara.ToriiGates.GorgeousToriiGateNeed.DisplaynameLocKey,Wunderschönes Torii
+minorunara.ToriiGates.GreatToriiGateNeed.DisplaynameLocKey,Großartiges Torii
+
+minorunara.Lantern.ForwardFacingBench.DisplayName,Vorwärtsgerichtete Bank
+minorunara.Lantern.ForwardFacingBench.Description,"Eine Bank mit einem Weg, der auf die Rückseite führt."
+minorunara.Lantern.ForwardFacingBench.Flavor,"\u201Ehow did they enter?\u201C (Wie sind sie hingekommen?) \u2013 pmduda"
+minorunara.Lantern.LanternCategory.DisplayName,Laternen
+minorunara.Lantern.LanternCategory.Description,Leuchtet in der Nacht.
+minorunara.Lantern.IndoorLantern.DisplayName,Innen-Laterne
+minorunara.Lantern.IndoorLantern.Description,"Obwohl sie als Innen-Laterne bezeichnet wird, kann sie auch im Freien aufgestellt werden."
+minorunara.Lantern.IndoorLantern.Flavor,"Früher waren wir Biber nachtaktiv, um unsere natürlichen Feinde zu meiden. Jetzt sind wir tagaktiv, weil wir die Primaten aller Dinge sind."
+minorunara.Lantern.StreetLantern.DisplayName,Straßen-Laterne
+minorunara.Lantern.StreetLantern.Description,"Diese Laternen werden oft vor Wachhäusern und an Straßen aufgestellt.  Sie werden auch für die Beschilderung von Geschäften verwendet."
+minorunara.Lantern.StreetLantern.Flavor,"Die Idee, Ladenschilder zum Leuchten zu bringen, machte die Stadt lebendig."
+minorunara.Lantern.GardenLantern.DisplayName,Garten-Laterne
+minorunara.Lantern.GardenLantern.Description,Diese Laternen werden häufig in Schreinen und Gärten aufgestellt.
+minorunara.Lantern.GardenLantern.Flavor,"\u201EWas ist Zen? Kann ich es essen?\u201C \u2013 Pina"
+minorunara.Lantern.ModernLantern1.DisplayName,Dreieck-Laterne
+minorunara.Lantern.ModernLantern1.Description,Eine Laterne mit einem dreieckigen Dach.
+minorunara.Lantern.ModernLantern1.Flavor,"Biber, die die Dunkelheit der Nacht besiegt haben, haben nichts mehr zu befürchten. Außer der Dürre."
+minorunara.Lantern.ModernLantern2.DisplayName,Viereck-Laterne
+minorunara.Lantern.ModernLantern2.Description,Eine viereckige Laterne.
+minorunara.Lantern.ModernLantern2.Flavor,Die Gegenwart wird irgendwann zur Vergangenheit werden. Aber auch in Zukunft werden Dämme wichtig bleiben.

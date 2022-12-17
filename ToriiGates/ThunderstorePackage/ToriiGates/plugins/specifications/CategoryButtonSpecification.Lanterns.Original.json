@@ -1,0 +1,17 @@
+{
+  "Name": "Lanterns",
+  "ToolGroup": "Decoration",
+  "ToolOrder": 510,
+  "ButtonIcon": "LanternCategoryIcon.png",
+  "Buildings": [
+    "IndoorLantern",
+    "StreetLantern",
+    "GardenLantern",
+    "PaperLantern",
+    "ModernLantern1",
+    "ModernLantern2"
+  ],
+  
+  "DisplayNameLocKey": "minorunara.Lantern.LanternCategory.DisplayName",
+  "DescriptionLocKey": "minorunara.Lantern.LanternCategory.Description"
+}

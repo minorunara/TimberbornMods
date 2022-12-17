@@ -1,0 +1,28 @@
+{
+  "Id": "OrdinaryToriiGate",
+  "BackwardCompatibleIds": [
+    "PrimitiveToriiGate",
+    "SimpleToriiGate",
+    "DemoToriiGate"
+  ],
+  "Order": 55,
+  "NeedGroupId": "Aesthetics",
+  "CharacterType": "Beaver",
+  "DisplayNameLocKey": "minorunara.ToriiGates.OrdinaryToriiGateNeed.DisplaynameLocKey",
+  "StartingValue": 0.0,
+  "MinimumValue": 0.0,
+  "MaximumValue": 1.0,
+  "DailyDelta": -2.0,
+  "ImportanceMultiplier": 1.0,
+  "CriticalNeedType": {
+    "Value": "None"
+  },
+  "CriticalSpriteName": "",
+  "CriticalDescriptionLocKey": "",
+  "DeathOnMinValue": false,
+  "DeathMessageLocKey": "",
+  "Effectiveness": 1.0,
+  "Wastable": false,
+  "HideWhenInactive": true,
+  "FavorableWellbeing": 1
+}

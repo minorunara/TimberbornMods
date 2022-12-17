@@ -1,0 +1,23 @@
+{
+  "CommonBuildings": [
+    "minorunara.Timberborn.ToriiGates/toriigates/PrimitiveToriiGate",
+    "minorunara.Timberborn.ToriiGates/toriigates/SimpleToriiGate",
+    "minorunara.Timberborn.ToriiGates/toriigates/DemoToriiGate",
+    "minorunara.Timberborn.ToriiGates/toriigates/TreatedToriiGate",
+    "minorunara.Timberborn.ToriiGates/toriigates/IronToriiGate",
+    "minorunara.Timberborn.ToriiGates/toriigates/HugeToriiGateFT",
+    "minorunara.Timberborn.ToriiGates/toriigates/HugeToriiGateIT",
+    "minorunara.Timberborn.ToriiGates/toriigates/IndoorLantern",
+    "minorunara.Timberborn.ToriiGates/toriigates/StreetLantern",
+    "minorunara.Timberborn.ToriiGates/toriigates/GardenLantern",
+    "minorunara.Timberborn.ToriiGates/toriigates/PaperLantern",
+    "minorunara.Timberborn.ToriiGates/toriigates/ModernLantern1",
+    "minorunara.Timberborn.ToriiGates/toriigates/ModernLantern2",
+    "minorunara.Timberborn.ToriiGates/toriigates/ForwardFacingBench.IT"
+  ],
+  "Needs": [
+    "OrdinaryToriiGate",
+    "GorgeousToriiGate",
+    "GreatToriiGate"
+  ]
+}
