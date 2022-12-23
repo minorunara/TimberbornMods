@@ -1,10 +1,10 @@
 {
   "name": "PackingPlant",
-  "version_number": "1.0.0",
+  "version_number": "1.1.0",
   "website_url": "https://github.com/minorunara/TimberbornMods/",
-  "description": "Add a factory that uses multiple types of ingredients to create dishes that can satisfy multiple nutritional needs at the same time.",
+  "description": "Add a factory that uses multiple types of foods to create dishes that can satisfy multiple nutritional needs at the same time.",
   "dependencies": [
-    "BepInEx-BepInExPack_Timberborn-5.4.19",
-    "Timberborn_Central-TimberAPI-0.4.4"
+    "BepInEx-BepInExPack_Timberborn-5.4.15",
+    "Timberborn_Central-TimberAPI-0.5.3"
   ]
 }

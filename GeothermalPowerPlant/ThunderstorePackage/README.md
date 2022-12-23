@@ -22,7 +22,7 @@ This facility consumes metal blocks, treated planks and energy to produce water.
 
 ## Disclaimer!
 
-This mod is currently only supported in Timberborn version 0.2.5.1. Other versions will probably not work (and may crash the game).
+This mod is currently only supported in Timberborn version 0.3.4.3. Other versions will probably not work (and may crash the game).
 
 ## Install
 
@@ -55,8 +55,6 @@ https://github.com/Timberborn-Modding-Central/ExtendedArchitecture/tree/main/Ass
 
 (Insignificant) Cooling towers can produce water even if the geothermal plant was not in operation.
 
-(Insignificant) The metal texture is wrong.
-
 (Insignificant) At certain points in a Hot Dry Rock Geothermal Turbine, something other than a cooling tower can be built. This is intentional to connect the cooling towers to the Hot Dry Rock Geothermal Turbine.
 
 (Insignificant) A bridge can be built through the chimney.
@@ -64,6 +62,22 @@ https://github.com/Timberborn-Modding-Central/ExtendedArchitecture/tree/main/Ass
 (Insignificant) Beavers can walk through the top of the Hot Dry Rock Geothermal Turbine.
 
 ## Changelog
+
+### 1.1.0 Target game version is (v0.3.4.3) - 2022/12/18
+
+Timberborn version v0.3.4.3 is now supported.
+
+### 1.0.4 Target game version is (v0.2.9.1) - 2022/10/12
+
+Timberborn version v0.2.9.1 is now supported.
+
+### 1.0.3 Target game version is (v0.2.8.1) - 2022/09/23
+
+Migrated to TimberAPI 0.5.0.
+
+Science points are now needed to unlock the facility.
+
+Removed normal map for metal textures.
 
 ### 1.0.2 Target game version is (v0.2.7.2) - 2022/09/11
 
@@ -73,7 +87,7 @@ The power connections are now easier to understand. Also, the power shaft connec
 
 Add Russian translation by GinFuyou.
 
-Add deutsch translation by juf0816.
+Add Deutsch translation by juf0816.
 
 ### 1.0.1(hot fix) Target game version is (v0.2.5.1) - 2022/08/25
 

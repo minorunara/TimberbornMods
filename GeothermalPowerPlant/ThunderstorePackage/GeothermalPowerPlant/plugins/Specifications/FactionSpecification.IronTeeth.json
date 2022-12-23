@@ -1,0 +1,6 @@
+{
+  "CommonBuildings": [
+    "minorunara.Timberborn.GeothermalPowerPlant/geothermalpowerplant/GeothermalPowerPlant.IT",
+    "minorunara.Timberborn.GeothermalPowerPlant/geothermalpowerplant/CoolingTower.IT"
+  ]
+}

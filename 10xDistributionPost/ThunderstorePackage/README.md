@@ -6,7 +6,7 @@ There are currently 3 facilities.
 
 ### 10x Distribution Post
 
-a distribution post that grants 10x strength to workers. This means that a beaver can export 140 kg and a golem 200 kg at a time.
+a distribution post that grants 10x strength to workers. This means that a beaver can export 140 kg and a bot 200 kg at a time.
 
 ![10xDistribution](https://github.com/minorunara/TimberbornMods/blob/main/10xDistributionPost/attachments/10xDistribution.png?raw=true)
 
@@ -26,7 +26,7 @@ Space-saving 2x2 distribution post. For import/export to/from smaller districts 
 
 ## Disclaimer!
 
-This mod is currently only supported in version 0.2.5.3 of Timberborn. Other versions will probably not work (and may crash the game).
+This mod is currently only supported in version 0.3.4.3 of Timberborn. Other versions will probably not work (and may crash the game).
 
 ## Install
 
@@ -54,10 +54,16 @@ You should find under the labor tab.
 ## Other general tips
 - Keep distribution posts and destinations as close as possible. Distance greatly affects efficiency. If the destinations are very far apart, it makes sense to create a relay district in between.
 
-- Beavers do not export when the travel distance is long and close to the end of the workday. To avoid this, use golems. Golems can also carry more than beaver.
+- Beavers do not export when the travel distance is long and close to the end of the workday. To avoid this, use bots. Bots can also carry more than beaver.
 
 - Remember to set district distribution limits correctly.
 
+## Localization Cooperation
+
+- English
+- Japanese
+- Russian (Thanks to Ginfuyou)
+- Deutsch (thanks to juf0816)
 
 ## License
 
@@ -66,6 +72,34 @@ This mod was made from Elec's ExtendedArchitecture, so the license follows the o
 https://github.com/Timberborn-Modding-Central/ExtendedArchitecture/tree/main/Assets/ExtendedArchitecture
 
 ## Changelog
+
+### 1.3.0 Target game version is (v0.3.4.3) - 2022/12/18
+
+Timberborn version v0.3.4.3 is now supported.
+
+### 1.2.4 Target game version is (v0.2.9.1) - 2022/10/12
+
+Timberborn version v0.2.9.1 is now supported.
+
+### 1.2.3 - 2022/09/23
+
+Fixed a bug in Falktail's 10xDistribution Post that incorrectly added biofuel inventory and did not function properly
+
+### 1.2.2 Target game version is (v0.2.8.1) - 2022/09/23
+
+Migrated to TimberAPI 0.5.0.
+
+Add Deutsch translation by juf0816.
+
+The normal map of the box was removed to avoid strange shadows.
+
+Science points are now needed to unlock the facility.
+
+### 1.2.1  Target game version is (v0.2.6.2)  - 2022/09/07
+
+A bridge can now be built over the unroofed portion of the small distribution post.
+
+Added Russian translation that was provided by GinFuyou.
 
 ### 1.2.0  Target game version is (v0.2.5.3)  - 2022/08/27
 
@@ -79,7 +113,7 @@ Timberborn version v0.2.5.0 is now supported.
 
 Swimming buffs were removed from the base game and no longer function.
 
-Because of the increased default strength, the amount that beavers and golems can carry has increased.
+Because of the increased default strength, the amount that beavers and bots can carry has increased.
 
 The buffer per route was accordingly increased to 200.
 

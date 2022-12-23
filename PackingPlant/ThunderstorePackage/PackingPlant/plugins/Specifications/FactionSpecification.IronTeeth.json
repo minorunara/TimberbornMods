@@ -1,0 +1,11 @@
+{
+  "CommonBuildings": [
+    "minorunara.Timberborn.PackingPlant/packingplant/PackingPlantIronTeeth"
+  ],
+  "Goods": [
+    "FoodPackAll",
+    "FoodPackBasic",
+    "FoodPackGrill",
+    "FoodPackBakery"
+  ]
+}

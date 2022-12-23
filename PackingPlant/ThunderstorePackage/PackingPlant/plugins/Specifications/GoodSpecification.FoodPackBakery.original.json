@@ -1,0 +1,36 @@
+{
+    "Id": "FoodPackBakery",
+    "BackwardCompatibleIds": [
+    ],
+    "DisplayNameLocKey": "minorunara.Good.FoodPackBakery.DisplayName",
+    "PluralDisplayNameLocKey": "minorunara.Good.FoodPackBakery.PluralDisplayName",
+    "ConsumptionEffects": [
+      {
+        "NeedId": "Hunger",
+        "Points": 0.3
+      },
+      {
+        "NeedId": "Bread",
+        "Points": 0.19
+      },
+      {
+        "NeedId": "CattailCracker",
+        "Points": 0.19
+      },
+      {
+        "NeedId": "MaplePastry",
+        "Points": 0.2
+      }
+    ],
+    "GoodType": "Box",
+    "StockpileVisualization": "Box",
+    "VisibleContainer": {
+      "Value": "Box"
+    },
+    "ContainerColor": "#fc0398",
+    "CarryingAnimation": "CarryInHands",
+    "Weight": 1,
+    "GoodGroupId": "Food",
+    "Icon": "minorunara.Timberborn.PackingPlant/packingplant/FoodPackBakeryIcon",
+    "RequiredFeatureToggle": ""
+  }
