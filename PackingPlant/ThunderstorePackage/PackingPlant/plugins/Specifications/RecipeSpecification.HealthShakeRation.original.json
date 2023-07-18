@@ -1,0 +1,40 @@
+{
+  "Id": "HealthShakeRation",
+  "DisplayLocKey": "minorunara.Manufactory.Recipe.HealthShakeRation",
+  "CycleDurationInHours": 0.2,
+  "CyclesCapacity": 40,
+  "Ingredients": [
+    {
+      "Good": {
+        "Id": "CornRation"
+      },
+      "Amount": 1
+    },
+    {
+      "Good": {
+        "Id": "EggplantRation"
+      },
+      "Amount": 1
+    },
+    {
+      "Good": {
+        "Id": "AlgaeRation"
+      },
+      "Amount": 1
+    }
+  ],
+  "Products": [
+    {
+      "Good": {
+        "Id": "HealthShakeRation"
+      },
+      "Amount": 3
+    }
+  ],
+  "ProducedSciencePoints": 0,
+  "Fuel": {
+    "Id": "Paper"
+  },
+  "CyclesFuelLasts": 10,
+  "FuelCapacity": 30
+}

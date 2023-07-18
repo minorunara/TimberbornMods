@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 260551004
+CRC: 446923025
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 053c5b34d2498a0d7df62d8c56611994
+    Hash: 430df3fa4f0a4c07e9a5aaaefc116034
   TypeTreeHash:
     serializedVersion: 2
-    Hash: e74c0628c661e5a7406b87cecd6264e0
+    Hash: 48c5dc5d102dd32577e95d4e81855d9a
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -30,41 +30,41 @@ ClassTypes:
 - Class: 108
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 1794062130, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
-- Class: 114
-  Script: {fileID: 1450662694, guid: 29eaa40b4060cf7ad824e7ba409cdd9e, type: 3}
-- Class: 114
-  Script: {fileID: 1933139831, guid: 75be7af0b34ada5bff62a949a3c4181d, type: 3}
-- Class: 114
-  Script: {fileID: 1800879565, guid: c1ff95bb5ae0e8b420075ec58add6f36, type: 3}
-- Class: 114
   Script: {fileID: -790041461, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
 - Class: 114
   Script: {fileID: -460516431, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
 - Class: 114
-  Script: {fileID: 304358366, guid: 7f34c67d5913b607a3bac2ffb807ccf0, type: 3}
+  Script: {fileID: -1604455801, guid: fb0076526bca5246b24d6c818d68ce00, type: 3}
 - Class: 114
-  Script: {fileID: -871492198, guid: c1ff95bb5ae0e8b420075ec58add6f36, type: 3}
-- Class: 114
-  Script: {fileID: -1115272012, guid: 75be7af0b34ada5bff62a949a3c4181d, type: 3}
-- Class: 114
-  Script: {fileID: -1115175677, guid: b5f268a4cb31a93ed707a95d3a502b0e, type: 3}
-- Class: 114
-  Script: {fileID: -731835049, guid: b5f268a4cb31a93ed707a95d3a502b0e, type: 3}
-- Class: 114
-  Script: {fileID: -1418978883, guid: 4ed0189b1e1d234e361262ab78b6f74b, type: 3}
+  Script: {fileID: -686023896, guid: bcb85dd25e41826ab5a7dea12cff2430, type: 3}
 - Class: 114
   Script: {fileID: -1066712947, guid: dd1baa4f323651ee41781eb84b2b1960, type: 3}
 - Class: 114
   Script: {fileID: 9237227, guid: dd1baa4f323651ee41781eb84b2b1960, type: 3}
 - Class: 114
-  Script: {fileID: -1431003440, guid: c88ab7b37c4f350242674d2efd621c19, type: 3}
+  Script: {fileID: 1800879565, guid: c1ff95bb5ae0e8b420075ec58add6f36, type: 3}
+- Class: 114
+  Script: {fileID: 1794062130, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
+- Class: 114
+  Script: {fileID: -871492198, guid: c1ff95bb5ae0e8b420075ec58add6f36, type: 3}
 - Class: 114
   Script: {fileID: 406104335, guid: 79523a2b71f4fae881a60ad2e723d456, type: 3}
 - Class: 114
-  Script: {fileID: -686023896, guid: bcb85dd25e41826ab5a7dea12cff2430, type: 3}
+  Script: {fileID: -1418978883, guid: 4ed0189b1e1d234e361262ab78b6f74b, type: 3}
 - Class: 114
-  Script: {fileID: -1604455801, guid: fb0076526bca5246b24d6c818d68ce00, type: 3}
+  Script: {fileID: -731835049, guid: b5f268a4cb31a93ed707a95d3a502b0e, type: 3}
+- Class: 114
+  Script: {fileID: -1115175677, guid: b5f268a4cb31a93ed707a95d3a502b0e, type: 3}
+- Class: 114
+  Script: {fileID: 304358366, guid: 7f34c67d5913b607a3bac2ffb807ccf0, type: 3}
+- Class: 114
+  Script: {fileID: 1450662694, guid: 29eaa40b4060cf7ad824e7ba409cdd9e, type: 3}
+- Class: 114
+  Script: {fileID: -1431003440, guid: c88ab7b37c4f350242674d2efd621c19, type: 3}
+- Class: 114
+  Script: {fileID: 1933139831, guid: 75be7af0b34ada5bff62a949a3c4181d, type: 3}
+- Class: 114
+  Script: {fileID: -1115272012, guid: 75be7af0b34ada5bff62a949a3c4181d, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 213
@@ -86,10 +86,12 @@ SerializeReferenceClassIdentifiers:
   ClassName: Timberborn.SlotSystem.TransformSlotSpecification
 Assets:
 - Assets/Torii/ToriiGateDaiishi.fbx
+- Assets/Lantern/PaperLantern3.prefab
 - Assets/Lantern/StreetLantern.prefab
 - Assets/Lantern/ForwardFacingBench.IT.prefab
 - Assets/Torii/SImpleToriiGate.prefab
 - Assets/Torii/IronToriiGate.prefab
+- Assets/Torii/ToriiGateCategoryIcon.png
 - Assets/Lantern/ModernLantern2.prefab
 - Assets/Lantern/ModernLantern1.prefab
 - Assets/Torii/TreatedToriiGateDaiishi.fbx
@@ -97,6 +99,7 @@ Assets:
 - Assets/Lantern/IndoorLantern.prefab
 - Assets/Torii/TreatedToriiGate.prefab
 - Assets/Torii/PrimitiveToriiGate.prefab
+- Assets/Lantern/LanternCategoryIcon.png
 - Assets/Lantern/ForwardFacingBench.FT.prefab
 - Assets/Torii/HugeToriiGateIT.prefab
 - Assets/Lantern/GardenLantern.prefab

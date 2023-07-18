@@ -1,9 +1,9 @@
 {
   "Name": "PackingPlant",
-  "Version": "1.1.0",
+  "Version": "1.2.2",
   "UniqueId": "packingplant",
   "MinimumApiVersion": "0.5.3",
-  "MinimumGameVersion": "0.3.4.3",
+  "MinimumGameVersion": "0.4.0.0",
   "Assets": [
     {
       "Prefix": "minorunara.Timberborn.PackingPlant",

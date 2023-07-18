@@ -1,25 +1,26 @@
 {
-    "Id": "FoodPackBakery",
+    "Id": "HealthShakeFermented",
     "BackwardCompatibleIds": [
+      "FoodPackGrill"
     ],
-    "DisplayNameLocKey": "minorunara.Good.FoodPackBakery.DisplayName",
-    "PluralDisplayNameLocKey": "minorunara.Good.FoodPackBakery.PluralDisplayName",
+    "DisplayNameLocKey": "minorunara.Good.HealthShakeFermented.DisplayName",
+    "PluralDisplayNameLocKey": "minorunara.Good.HealthShakeFermented.PluralDisplayName",
     "ConsumptionEffects": [
       {
         "NeedId": "Hunger",
         "Points": 0.3
       },
       {
-        "NeedId": "Bread",
+        "NeedId": "FermentedCassava",
         "Points": 0.19
       },
       {
-        "NeedId": "CattailCracker",
+        "NeedId": "FermentedSoybean",
         "Points": 0.19
       },
       {
-        "NeedId": "MaplePastry",
-        "Points": 0.2
+        "NeedId": "FermentedMushroom",
+        "Points": 0.19
       }
     ],
     "GoodType": "Box",
@@ -27,11 +28,11 @@
     "VisibleContainer": {
       "Value": "Box"
     },
-    "ContainerColor": "#fc0398",
+    "ContainerColor": "#000000",
     "CarryingAnimation": "CarryInHands",
     "Weight": 1,
     "GoodGroupId": "Food",
     "ForceImport": true,
-    "Icon": "minorunara.Timberborn.PackingPlant/packingplant/FoodPackBakeryIcon",
+    "Icon": "minorunara.Timberborn.PackingPlant/packingplant/HealthShakeFermentedIcon",
     "RequiredFeatureToggle": ""
   }

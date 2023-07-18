@@ -1,0 +1,9 @@
+{
+  "Id": "ToriiGates",
+  "GroupId": "Decoration",
+  "Order": "500",
+  "Icon": "minorunara.Timberborn.ToriiGates/toriigates/ToriiGateCategoryIcon",
+  "NameLocKey": "minorunara.ToriiGates.ToriiCategory.DisplayName",
+  "FallbackGroup": false
+
+}

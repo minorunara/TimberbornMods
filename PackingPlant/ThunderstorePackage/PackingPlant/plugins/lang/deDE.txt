@@ -14,4 +14,16 @@ minorunara.Manufactory.Recipe.FoodPackBakery.Packing,Nahrungspaket\r\n(Bäckerei
 minorunara.PackingPlant.PackingPlant.DisplayName,"Pack-Station"
 minorunara.PackingPlant.PackingPlant.Description,Eine Fabrik in der Nahrung zusammengepackt wird um Logistik und Lagerung zu vereinfachen.
 minorunara.PackingPlant.PackingPlant.Flavor,"\u201ESicher, es schmeckt gut, aber es schmeckt gleich egal in welchen Distrikt ich gehe, also ist das Vergnügen der Besichtigungstouren verloren gegangen.\u201C \u2013 Pina"
-minorunara.PackingPlant.FoodPackNeed.DisplaynameLocKey,Nahrungspaket
+minorunara.PackingPlant.FoodPackNeed.DisplaynameLocKey,"Pack-Station"
+minorunara.Good.HealthShakeAll.DisplayName,Ersatzmahlzeit,-
+minorunara.Good.HealthShakeAll.PluralDisplayName,Ersatzmahlzeit,-
+minorunara.Manufactory.Recipe.HealthShakeAll,Ersatzmahlzeit,-
+minorunara.Good.HealthShakeFermented.DisplayName,Ersatzmahlzeit (fermentiert),-
+minorunara.Good.HealthShakeFermented.PluralDisplayName,Ersatzmahlzeit (fermentiert),-
+minorunara.Manufactory.Recipe.HealthShakeFermented,Ersatzmahlzeit (fermentiert),-
+minorunara.Good.HealthShakeRation.DisplayName,Ersatzmahlzeit (rationiert),-
+minorunara.Good.HealthShakeRation.PluralDisplayName,Ersatzmahlzeit (rationiert),-
+minorunara.Manufactory.Recipe.HealthShakeRation,Ersatzmahlzeit (rationiert),-
+minorunara.PackingPlant.PackingPlantIronTeeth.DisplayName,"Pack-Station",-
+minorunara.PackingPlant.PackingPlantIronTeeth.Description,Eine Fabrik in der Nahrung zusammengepackt wird um Logistik und Lagerung zu vereinfachen.,-
+minorunara.PackingPlant.PackingPlantIronTeeth.Flavor,"\u201EKürzere Essenszeiten ermöglichen es uns, länger zu arbeiten!\u201C \u2013 Morgendliche Zusammenkunft",-

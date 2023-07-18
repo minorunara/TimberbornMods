@@ -1,0 +1,29 @@
+ID,Text,Comment
+minorunara.Good.FoodPackAll.DisplayName,Comida empacada (Toda)
+minorunara.Good.FoodPackAll.PluralDisplayName,Comidas empacadas (Toda)
+minorunara.Manufactory.Recipe.FoodPackAll.Packing,Comida empacada (Toda)
+minorunara.Good.FoodPackBasic.DisplayName,Comida empacada (Basica)
+minorunara.Good.FoodPackBasic.PluralDisplayName,Comidas empacadas (Basica)
+minorunara.Manufactory.Recipe.FoodPackBasic,Comida empacada (Basica)
+minorunara.Good.FoodPackGrill.DisplayName,Comida empacada (Parrilla)
+minorunara.Good.FoodPackGrill.PluralDisplayName,Comidas empacadas (Parrilla)
+minorunara.Manufactory.Recipe.FoodPackGrill,Comida empacada (Parrilla)
+minorunara.Good.FoodPackBakery.DisplayName,Comida empacada (Pasteleria)
+minorunara.Good.FoodPackBakery.PluralDisplayName,Comidas empacadas (Pasteleria)
+minorunara.Manufactory.Recipe.FoodPackBakery.Packing,Comida empacada (Pasteleria)
+minorunara.PackingPlant.PackingPlant.DisplayName,Planta Empacadora
+minorunara.PackingPlant.PackingPlant.Description,Una fabrica que empaca diferentes tipos de comida para eficientar la logistica y almacenaje.
+minorunara.PackingPlant.PackingPlant.Flavor,"""Seguro, el sabor es bueno, pero el sabor es el mismo no importa a que distrito vaya, asi que el placer de la gastronomia de la region no existe."" —Pina"
+minorunara.PackingPlant.FoodPackNeed.DisplaynameLocKey,Comida empacada
+minorunara.Good.HealthShakeAll.DisplayName,Comida empacada (Toda),-placeholder
+minorunara.Good.HealthShakeAll.PluralDisplayName,Comidas empacadas (Toda),-placeholder
+minorunara.Manufactory.Recipe.HealthShakeAll,Comida empacada (Toda),-placeholder
+minorunara.Good.HealthShakeFermented.DisplayName,Comida empacada (Parrilla),-placeholder
+minorunara.Good.HealthShakeFermented.PluralDisplayName,Comidas empacadas (Parrilla),-placeholder
+minorunara.Manufactory.Recipe.HealthShakeFermented,Comida empacada (Parrilla),-placeholder
+minorunara.Good.HealthShakeRation.DisplayName,Comida empacada (Pasteleria),-placeholder
+minorunara.Good.HealthShakeRation.PluralDisplayName,Comidas empacadas (Pasteleria),-placeholder
+minorunara.Manufactory.Recipe.HealthShakeRation,Comida empacada (Pasteleria),-placeholder
+minorunara.PackingPlant.PackingPlantIronTeeth.DisplayName,Planta Empacadora,-placeholder
+minorunara.PackingPlant.PackingPlantIronTeeth.Description,Una fabrica que empaca diferentes tipos de comida para eficientar la logistica y almacenaje.,-placeholder
+minorunara.PackingPlant.PackingPlantIronTeeth.Flavor,"""Seguro, el sabor es bueno, pero el sabor es el mismo no importa a que distrito vaya, asi que el placer de la gastronomia de la region no existe."" —Pina",-placeholder

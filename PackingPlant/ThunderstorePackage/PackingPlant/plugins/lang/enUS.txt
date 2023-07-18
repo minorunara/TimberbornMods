@@ -15,3 +15,15 @@ minorunara.PackingPlant.PackingPlant.DisplayName,Packing Plant
 minorunara.PackingPlant.PackingPlant.Description,A factory that packs foodstuffs to streamline logistics and warehousing.
 minorunara.PackingPlant.PackingPlant.Flavor,"""Sure, it tastes good, but it tastes the same no matter which district I go to, so the pleasure of sightseeing is gone."" —Pina"
 minorunara.PackingPlant.FoodPackNeed.DisplaynameLocKey,Packaged food
+minorunara.Good.HealthShakeAll.DisplayName,Meal Replacement,-
+minorunara.Good.HealthShakeAll.PluralDisplayName,Meal Replacement,-
+minorunara.Manufactory.Recipe.HealthShakeAll,Meal Replacement,-
+minorunara.Good.HealthShakeFermented.DisplayName,Health Shake (Fermented),-
+minorunara.Good.HealthShakeFermented.PluralDisplayName,Health Shake (Fermented),-
+minorunara.Manufactory.Recipe.HealthShakeFermented,Health Shake (Fermented),-
+minorunara.Good.HealthShakeRation.DisplayName,Health Shake (Ration),-
+minorunara.Good.HealthShakeRation.PluralDisplayName,Health Shake (Ration),-
+minorunara.Manufactory.Recipe.HealthShakeRation,Health Shake (Ration),-
+minorunara.PackingPlant.PackingPlantIronTeeth.DisplayName,Packing Plant,-
+minorunara.PackingPlant.PackingPlantIronTeeth.Description,A factory that packs foodstuffs to streamline logistics and warehousing.,-
+minorunara.PackingPlant.PackingPlantIronTeeth.Flavor,"""Shorter meal times allow us to work longer hours!"" -Morning Gathering",-

@@ -1,21 +1,15 @@
 {
   "Name": "ToriiGates",
-  "Version": "1.3.0",
+  "Version": "1.4.1",
   "UniqueId": "toriigates",
   "MinimumApiVersion": "0.5.3",
-  "MinimumGameVersion": "0.3.4.3",
+  "MinimumGameVersion": "0.4.0.0",
   "Assets": [
     {
       "Prefix": "minorunara.Timberborn.ToriiGates",
       "Scenes": [
-        "InGame"
+        "All"
       ]
     }
-  ],
-  "Dependencies": [
-	  {
-		  "UniqueId": "tobbert.categorybutton",
-		  "MinimumVersion": "1.4.1"
-	  }
   ]
 }

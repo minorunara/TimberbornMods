@@ -31,6 +31,7 @@
     "CarryingAnimation": "CarryInHands",
     "Weight": 1,
     "GoodGroupId": "Food",
+    "ForceImport": true,
     "Icon": "minorunara.Timberborn.PackingPlant/packingplant/FoodPackBasicIcon",
     "RequiredFeatureToggle": ""
   }

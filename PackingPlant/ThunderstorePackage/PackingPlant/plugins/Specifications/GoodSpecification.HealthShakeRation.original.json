@@ -1,25 +1,27 @@
 {
-    "Id": "FoodPackBakery",
+    "Id": "HealthShakeRation",
     "BackwardCompatibleIds": [
+      "FoodPackBakery",
+      "FoodPackBasic"
     ],
-    "DisplayNameLocKey": "minorunara.Good.FoodPackBakery.DisplayName",
-    "PluralDisplayNameLocKey": "minorunara.Good.FoodPackBakery.PluralDisplayName",
+    "DisplayNameLocKey": "minorunara.Good.HealthShakeRation.DisplayName",
+    "PluralDisplayNameLocKey": "minorunara.Good.HealthShakeRation.PluralDisplayName",
     "ConsumptionEffects": [
       {
         "NeedId": "Hunger",
         "Points": 0.3
       },
       {
-        "NeedId": "Bread",
+        "NeedId": "CornRation",
         "Points": 0.19
       },
       {
-        "NeedId": "CattailCracker",
+        "NeedId": "EggplantRation",
         "Points": 0.19
       },
       {
-        "NeedId": "MaplePastry",
-        "Points": 0.2
+        "NeedId": "AlgaeRation",
+        "Points": 0.19
       }
     ],
     "GoodType": "Box",
@@ -32,6 +34,6 @@
     "Weight": 1,
     "GoodGroupId": "Food",
     "ForceImport": true,
-    "Icon": "minorunara.Timberborn.PackingPlant/packingplant/FoodPackBakeryIcon",
+    "Icon": "minorunara.Timberborn.PackingPlant/packingplant/HealthShakeRationIcon",
     "RequiredFeatureToggle": ""
   }

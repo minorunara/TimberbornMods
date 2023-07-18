@@ -1,0 +1,9 @@
+{
+  "Id": "Lanterns",
+  "GroupId": "Decoration",
+  "Order": "510",
+  "Icon": "minorunara.Timberborn.ToriiGates/toriigates/LanternCategoryIcon",
+  "NameLocKey": "minorunara.Lantern.LanternCategory.DisplayName",
+  "FallbackGroup": false
+
+}

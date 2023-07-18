@@ -1,45 +1,46 @@
 {
-    "Id": "FoodPackAll",
+    "Id": "HealthShakeAll",
     "BackwardCompatibleIds": [
+      "FoodPackAll"
     ],
-    "DisplayNameLocKey": "minorunara.Good.FoodPackAll.DisplayName",
-    "PluralDisplayNameLocKey": "minorunara.Good.FoodPackAll.PluralDisplayName",
+    "DisplayNameLocKey": "minorunara.Good.HealthShakeAll.DisplayName",
+    "PluralDisplayNameLocKey": "minorunara.Good.HealthShakeAll.PluralDisplayName",
     "ConsumptionEffects": [
       {
         "NeedId": "Hunger",
         "Points": 0.3
       },
       {
-        "NeedId": "Carrots",
+        "NeedId": "Kohlrabi",
         "Points": 0.1
       },
       {
-        "NeedId": "SunflowerSeeds",
+        "NeedId": "MangroveFruit",
         "Points": 0.1
       },
       {
-        "NeedId": "GrilledPotatoes",
+        "NeedId": "FermentedCassava",
         "Points": 0.1
       },
       {
-        "NeedId": "GrilledChestnuts",
+        "NeedId": "FermentedSoybean",
         "Points": 0.1
       },
       {
-        "NeedId": "GrilledSpadderdock",
+        "NeedId": "FermentedMushroom",
         "Points": 0.1
       },
       {
-        "NeedId": "Bread",
+        "NeedId": "CornRation",
         "Points": 0.1
       },
       {
-        "NeedId": "CattailCracker",
+        "NeedId": "EggplantRation",
         "Points": 0.1
       },
       {
-        "NeedId": "MaplePastry",
-        "Points": 0.106
+        "NeedId": "AlgaeRation",
+        "Points": 0.1
       }
     ],
     "GoodType": "Box",
@@ -52,6 +53,6 @@
     "Weight": 1,
     "GoodGroupId": "Food",
     "ForceImport": true,
-    "Icon": "minorunara.Timberborn.PackingPlant/packingplant/FoodPackAllIcon",
+    "Icon": "minorunara.Timberborn.PackingPlant/packingplant/HealthShakeAllIcon",
     "RequiredFeatureToggle": ""
   }

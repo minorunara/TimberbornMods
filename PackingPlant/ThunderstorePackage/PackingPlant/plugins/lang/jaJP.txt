@@ -15,3 +15,15 @@ minorunara.PackingPlant.PackingPlant.DisplayName,梱包工場
 minorunara.PackingPlant.PackingPlant.Description,物流や倉庫管理の合理化のために食材を梱包する工場。
 minorunara.PackingPlant.PackingPlant.Flavor,確かに味は美味しいけど、どこの地区に行っても同じ味だから観光の楽しみが無くなっちゃったよ。—ピナ
 minorunara.PackingPlant.FoodPackNeed.DisplaynameLocKey,包装食品
+minorunara.Good.HealthShakeAll.DisplayName,完全栄養ゼリー,-
+minorunara.Good.HealthShakeAll.PluralDisplayName,完全栄養ゼリー,-
+minorunara.Manufactory.Recipe.HealthShakeAll,完全栄養ゼリー,-
+minorunara.Good.HealthShakeFermented.DisplayName,栄養ゼリー（発酵食品）,-
+minorunara.Good.HealthShakeFermented.PluralDisplayName,栄養ゼリー（発酵食品）,-
+minorunara.Manufactory.Recipe.HealthShakeFermented,栄養ゼリー（発酵食品）,-
+minorunara.Good.HealthShakeRation.DisplayName,栄養ゼリー（レーション）,-
+minorunara.Good.HealthShakeRation.PluralDisplayName,栄養ゼリー（レーション）,-
+minorunara.Manufactory.Recipe.HealthShakeRation,栄養ゼリー（レーション）,-
+minorunara.PackingPlant.PackingPlantIronTeeth.DisplayName,梱包工場,-
+minorunara.PackingPlant.PackingPlantIronTeeth.Description,物流や倉庫管理の合理化のために食材を梱包する工場。,-
+minorunara.PackingPlant.PackingPlantIronTeeth.Flavor,24時間戦えますか！早飯も余暇も仕事の基だ！—朝礼の唱和,-

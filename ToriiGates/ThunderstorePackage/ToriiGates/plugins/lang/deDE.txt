@@ -41,6 +41,9 @@ minorunara.Lantern.StreetLantern.Flavor,"Die Idee, Ladenschilder zum Leuchten zu
 minorunara.Lantern.GardenLantern.DisplayName,Garten-Laterne
 minorunara.Lantern.GardenLantern.Description,Diese Laternen werden häufig in Schreinen und Gärten aufgestellt.
 minorunara.Lantern.GardenLantern.Flavor,"\u201EWas ist Zen? Kann ich es essen?\u201C \u2013 Pina"
+minorunara.Lantern.PaperLantern.DisplayName,Papier-Laterne
+minorunara.Lantern.PaperLantern.Description,"Diese Laternen werden bei Festen und vor Bars verwendet, um eine andere Atmosphäre als im Alltag zu schaffen."
+minorunara.Lantern.PaperLantern.Flavor,"Das lange Aufbleiben wird Sie wahrscheinlich begeistern, aber in Maßen, denn morgen müssen Sie arbeiten."
 minorunara.Lantern.ModernLantern1.DisplayName,Dreieck-Laterne
 minorunara.Lantern.ModernLantern1.Description,Eine Laterne mit einem dreieckigen Dach.
 minorunara.Lantern.ModernLantern1.Flavor,"Biber, die die Dunkelheit der Nacht besiegt haben, haben nichts mehr zu befürchten. Außer der Dürre."

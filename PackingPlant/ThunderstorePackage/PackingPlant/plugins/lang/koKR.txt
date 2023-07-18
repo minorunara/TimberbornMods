@@ -1,0 +1,29 @@
+ID,Text,Comment
+minorunara.Good.FoodPackAll.DisplayName,포장 식품 (전체)
+minorunara.Good.FoodPackAll.PluralDisplayName,포장 식품 (전체)
+minorunara.Manufactory.Recipe.FoodPackAll.Packing,포장 식품 (전체)
+minorunara.Good.FoodPackBasic.DisplayName,포장 식품 (농작물)
+minorunara.Good.FoodPackBasic.PluralDisplayName,포장 식품 (농작물)
+minorunara.Manufactory.Recipe.FoodPackBasic,포장 식품 (농작물)
+minorunara.Good.FoodPackGrill.DisplayName,포장 식품 (그릴)
+minorunara.Good.FoodPackGrill.PluralDisplayName,포장 식품 (그릴)
+minorunara.Manufactory.Recipe.FoodPackGrill,포장 식품 (그릴)
+minorunara.Good.FoodPackBakery.DisplayName,포장 식품 (빵집)
+minorunara.Good.FoodPackBakery.PluralDisplayName,포장 식품 (빵집)
+minorunara.Manufactory.Recipe.FoodPackBakery.Packing,포장 식품 (빵집)
+minorunara.PackingPlant.PackingPlant.DisplayName,포장 공장
+minorunara.PackingPlant.PackingPlant.Description,보관 및 유통을 간소화하기 위해 식료품을 가공하는 공장.
+minorunara.PackingPlant.PackingPlant.Flavor,"네, 물론 맛있죠. 그렇지만 어딜 가나 똑같은 맛이라는 건 관광의 즐거움이 하나 없어진 거라고요. — 피나"
+minorunara.PackingPlant.FoodPackNeed.DisplaynameLocKey,포장 식품
+minorunara.Good.HealthShakeAll.DisplayName,간편 식품 (전체)
+minorunara.Good.HealthShakeAll.PluralDisplayName,간편 식품 (전체)
+minorunara.Manufactory.Recipe.HealthShakeAll,간편 식품 (전체)
+minorunara.Good.HealthShakeFermented.DisplayName,건강 쉐이크 (발효)
+minorunara.Good.HealthShakeFermented.PluralDisplayName,건강 쉐이크 (발효)
+minorunara.Manufactory.Recipe.HealthShakeFermented,건강 쉐이크 (발효)
+minorunara.Good.HealthShakeRation.DisplayName,건강 쉐이크 (식량)
+minorunara.Good.HealthShakeRation.PluralDisplayName,건강 쉐이크 (식량)
+minorunara.Manufactory.Recipe.HealthShakeRation,건강 쉐이크 (식량)
+minorunara.PackingPlant.PackingPlantIronTeeth.DisplayName,간편식 공장
+minorunara.PackingPlant.PackingPlantIronTeeth.Description,보관 및 유통을 간소화하기 위해 식료품을 가공하는 공장.
+minorunara.PackingPlant.PackingPlantIronTeeth.Flavor,"식사 시간이 짧아지면 더 오래 일할 수 있다! — 아침 점호"

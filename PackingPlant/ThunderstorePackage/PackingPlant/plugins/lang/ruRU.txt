@@ -15,3 +15,15 @@ minorunara.PackingPlant.PackingPlant.DisplayName,Упаковочный цех
 minorunara.PackingPlant.PackingPlant.Description,"Предприятие по упаковке готовых продуктов для облегчения хранения и логистики."
 minorunara.PackingPlant.PackingPlant.Flavor,"«Да, эти упакованные обеды вкусные, но они одинаковые в каждом районе! Никакого гастрономического приключения!» – Пина"
 minorunara.PackingPlant.FoodPackNeed.DisplaynameLocKey,"Упакованная еда"
+minorunara.Good.HealthShakeAll.DisplayName,Комбинированный обед,-placeholder
+minorunara.Good.HealthShakeAll.PluralDisplayName,Комбинированные обеды,-placeholder
+minorunara.Manufactory.Recipe.HealthShakeAll,Комбинированные обеды,-placeholder
+minorunara.Good.HealthShakeFermented.DisplayName,Грилль-сет,-placeholder
+minorunara.Good.HealthShakeFermented.PluralDisplayName,Грилль-сеты,-placeholder
+minorunara.Manufactory.Recipe.HealthShakeFermented,Грилль-сеты,-placeholder
+minorunara.Good.HealthShakeRation.DisplayName,Набор выпечки,-placeholder
+minorunara.Good.HealthShakeRation.PluralDisplayName,Наборы выпечки,-placeholder
+minorunara.Manufactory.Recipe.HealthShakeRation,Наборы выпечки,-placeholder
+minorunara.PackingPlant.PackingPlantIronTeeth.DisplayName,Упаковочный цех,-placeholder
+minorunara.PackingPlant.PackingPlantIronTeeth.Description,"Предприятие по упаковке готовых продуктов для облегчения хранения и логистики.",-placeholder
+minorunara.PackingPlant.PackingPlantIronTeeth.Flavor,"«Да, эти упакованные обеды вкусные, но они одинаковые в каждом районе! Никакого гастрономического приключения!» – Пина",-placeholder

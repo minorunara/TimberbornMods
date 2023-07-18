@@ -1,0 +1,40 @@
+{
+  "Id": "HealthShakeFermented",
+  "DisplayLocKey": "minorunara.Manufactory.Recipe.HealthShakeFermented",
+  "CycleDurationInHours": 0.2,
+  "CyclesCapacity": 40,
+  "Ingredients": [
+    {
+      "Good": {
+        "Id": "FermentedCassava"
+      },
+      "Amount": 1
+    },
+    {
+      "Good": {
+        "Id": "FermentedSoybean"
+      },
+      "Amount": 1
+    },
+    {
+      "Good": {
+        "Id": "FermentedMushroom"
+      },
+      "Amount": 1
+    }
+  ],
+  "Products": [
+    {
+      "Good": {
+        "Id": "HealthShakeFermented"
+      },
+      "Amount": 3
+    }
+  ],
+  "ProducedSciencePoints": 0,
+  "Fuel": {
+    "Id": "Paper"
+  },
+  "CyclesFuelLasts": 10,
+  "FuelCapacity": 30
+}

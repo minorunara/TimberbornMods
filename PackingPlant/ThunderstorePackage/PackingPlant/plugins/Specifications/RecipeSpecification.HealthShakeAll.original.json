@@ -1,0 +1,70 @@
+{
+  "Id": "HealthShakeAll",
+  "DisplayLocKey": "minorunara.Manufactory.Recipe.HealthShakeAll",
+  "CycleDurationInHours": 0.4,
+  "CyclesCapacity": 40,
+  "Ingredients": [
+    {
+      "Good": {
+        "Id": "Kohlrabi"
+      },
+      "Amount": 2
+    },
+    {
+      "Good": {
+        "Id": "MangroveFruit"
+      },
+      "Amount": 2
+    },
+    {
+      "Good": {
+        "Id": "FermentedCassava"
+      },
+      "Amount": 2
+    },
+    {
+      "Good": {
+        "Id": "FermentedSoybean"
+      },
+      "Amount": 2
+    },
+    {
+      "Good": {
+        "Id": "FermentedMushroom"
+      },
+      "Amount": 2
+    },
+    {
+      "Good": {
+        "Id": "CornRation"
+      },
+      "Amount": 2
+    },
+    {
+      "Good": {
+        "Id": "EggplantRation"
+      },
+      "Amount": 2
+    },
+    {
+      "Good": {
+        "Id": "AlgaeRation"
+      },
+      "Amount": 2
+    }
+  ],
+  "Products": [
+    {
+      "Good": {
+        "Id": "HealthShakeAll"
+      },
+      "Amount": 16
+    }
+  ],
+  "ProducedSciencePoints": 0,
+  "Fuel": {
+    "Id": "Paper"
+  },
+  "CyclesFuelLasts": 10,
+  "FuelCapacity": 30
+}
