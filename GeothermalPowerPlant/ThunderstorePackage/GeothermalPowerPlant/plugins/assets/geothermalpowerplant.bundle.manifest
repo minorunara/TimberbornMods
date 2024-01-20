@@ -1,12 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2797791964
+CRC: 3936116081
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fbb02d587635f2fd90f9f4e203722445
+    Hash: 1926bfc16e938911785355088e20c64b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: c2c8906d42212b4968b5e60fc044580c
+    Hash: b4e97218639ba8a33cb633de67ea21c6
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 163e4819d4f2e005b3de7fae15eb6ee9
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -34,67 +37,65 @@ ClassTypes:
 - Class: 95
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: -790041461, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
-- Class: 114
-  Script: {fileID: -460516431, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
-- Class: 114
-  Script: {fileID: -1604455801, guid: fb0076526bca5246b24d6c818d68ce00, type: 3}
-- Class: 114
-  Script: {fileID: -686023896, guid: bcb85dd25e41826ab5a7dea12cff2430, type: 3}
-- Class: 114
-  Script: {fileID: 9237227, guid: dd1baa4f323651ee41781eb84b2b1960, type: 3}
-- Class: 114
   Script: {fileID: 443178000, guid: a01d35f43886f4b46e413d3c2ea20811, type: 3}
-- Class: 114
-  Script: {fileID: 1800879565, guid: c1ff95bb5ae0e8b420075ec58add6f36, type: 3}
-- Class: 114
-  Script: {fileID: 1794062130, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
-- Class: 114
-  Script: {fileID: 200649111, guid: 6db671ca2a10521151a0623ea7cc13c9, type: 3}
 - Class: 114
   Script: {fileID: -1514884223, guid: a01d35f43886f4b46e413d3c2ea20811, type: 3}
 - Class: 114
-  Script: {fileID: -871492198, guid: c1ff95bb5ae0e8b420075ec58add6f36, type: 3}
-- Class: 114
-  Script: {fileID: 406104335, guid: 79523a2b71f4fae881a60ad2e723d456, type: 3}
-- Class: 114
-  Script: {fileID: -731835049, guid: b5f268a4cb31a93ed707a95d3a502b0e, type: 3}
-- Class: 114
-  Script: {fileID: -1115175677, guid: b5f268a4cb31a93ed707a95d3a502b0e, type: 3}
-- Class: 114
-  Script: {fileID: 1700995066, guid: 9d9a15fd937d3c3e3eda286523371813, type: 3}
-- Class: 114
-  Script: {fileID: -149572704, guid: 0929a3127c40824ef41eef744c4fc49b, type: 3}
-- Class: 114
-  Script: {fileID: -935546291, guid: 9d9a15fd937d3c3e3eda286523371813, type: 3}
-- Class: 114
-  Script: {fileID: 1933283616, guid: 9d9a15fd937d3c3e3eda286523371813, type: 3}
-- Class: 114
-  Script: {fileID: -1496982017, guid: 71874a96862cca0445075c2f72e705bf, type: 3}
-- Class: 114
-  Script: {fileID: 1061738130, guid: 9d9a15fd937d3c3e3eda286523371813, type: 3}
-- Class: 114
-  Script: {fileID: -598504670, guid: 6e68475ee52ce568acbd493b99ce126d, type: 3}
-- Class: 114
-  Script: {fileID: -455950880, guid: 71874a96862cca0445075c2f72e705bf, type: 3}
+  Script: {fileID: 1385319953, guid: a01d35f43886f4b46e413d3c2ea20811, type: 3}
 - Class: 114
   Script: {fileID: -1804725900, guid: 71874a96862cca0445075c2f72e705bf, type: 3}
 - Class: 114
-  Script: {fileID: 541562997, guid: 3d08eaebc9cf2cdafcd1795ddf8771cc, type: 3}
+  Script: {fileID: -455950880, guid: 71874a96862cca0445075c2f72e705bf, type: 3}
 - Class: 114
-  Script: {fileID: -1680664112, guid: 2cf0d2a7e560d63c9cb2673a04d45d56, type: 3}
+  Script: {fileID: -1496982017, guid: 71874a96862cca0445075c2f72e705bf, type: 3}
 - Class: 114
-  Script: {fileID: -441363965, guid: 644d38e445b7eca3e081836e52ade497, type: 3}
+  Script: {fileID: 1800879565, guid: c1ff95bb5ae0e8b420075ec58add6f36, type: 3}
 - Class: 114
-  Script: {fileID: 1385319953, guid: a01d35f43886f4b46e413d3c2ea20811, type: 3}
-- Class: 114
-  Script: {fileID: -1612892808, guid: d2469c2f44f08c8986f7616cd6611c77, type: 3}
-- Class: 114
-  Script: {fileID: -789200235, guid: 0ff017bfb6525dc7a8977d5ef121393d, type: 3}
+  Script: {fileID: -871492198, guid: c1ff95bb5ae0e8b420075ec58add6f36, type: 3}
 - Class: 114
   Script: {fileID: 1061827656, guid: 644d38e445b7eca3e081836e52ade497, type: 3}
 - Class: 114
+  Script: {fileID: -441363965, guid: 644d38e445b7eca3e081836e52ade497, type: 3}
+- Class: 114
+  Script: {fileID: -1115175677, guid: b5f268a4cb31a93ed707a95d3a502b0e, type: 3}
+- Class: 114
+  Script: {fileID: -731835049, guid: b5f268a4cb31a93ed707a95d3a502b0e, type: 3}
+- Class: 114
+  Script: {fileID: -149572704, guid: 0929a3127c40824ef41eef744c4fc49b, type: 3}
+- Class: 114
+  Script: {fileID: 406104335, guid: 79523a2b71f4fae881a60ad2e723d456, type: 3}
+- Class: 114
+  Script: {fileID: -790041461, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
+- Class: 114
+  Script: {fileID: 1794062130, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
+- Class: 114
+  Script: {fileID: -460516431, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
+- Class: 114
+  Script: {fileID: -1680664112, guid: 2cf0d2a7e560d63c9cb2673a04d45d56, type: 3}
+- Class: 114
+  Script: {fileID: -686023896, guid: bcb85dd25e41826ab5a7dea12cff2430, type: 3}
+- Class: 114
+  Script: {fileID: 541562997, guid: 3d08eaebc9cf2cdafcd1795ddf8771cc, type: 3}
+- Class: 114
+  Script: {fileID: 200649111, guid: 6db671ca2a10521151a0623ea7cc13c9, type: 3}
+- Class: 114
+  Script: {fileID: 1061738130, guid: 9d9a15fd937d3c3e3eda286523371813, type: 3}
+- Class: 114
+  Script: {fileID: 1700995066, guid: 9d9a15fd937d3c3e3eda286523371813, type: 3}
+- Class: 114
+  Script: {fileID: 1933283616, guid: 9d9a15fd937d3c3e3eda286523371813, type: 3}
+- Class: 114
+  Script: {fileID: 9237227, guid: dd1baa4f323651ee41781eb84b2b1960, type: 3}
+- Class: 114
+  Script: {fileID: -598504670, guid: 6e68475ee52ce568acbd493b99ce126d, type: 3}
+- Class: 114
+  Script: {fileID: -789200235, guid: 0ff017bfb6525dc7a8977d5ef121393d, type: 3}
+- Class: 114
   Script: {fileID: 649756421, guid: 0ff017bfb6525dc7a8977d5ef121393d, type: 3}
+- Class: 114
+  Script: {fileID: 1327350266, guid: 603f82a4140498c516499d72a9d347b6, type: 3}
+- Class: 114
+  Script: {fileID: -1553071738, guid: 0fe512d2d979abc43670e729a24e15fb, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 136
@@ -125,7 +126,7 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: Timberborn.MechanicalSystem
   ClassName: Timberborn.MechanicalSystem.TransputSpecification
 - AssemblyName: Timberborn.NeedApplication
-  ClassName: Timberborn.NeedApplication.NeedApplierEffectSpecification
+  ClassName: Timberborn.NeedApplication.NeedApplierEffectSpecificationPerHour
 - AssemblyName: Timberborn.SlotSystem
   ClassName: Timberborn.SlotSystem.TransformSlotSpecification
 - AssemblyName: Timberborn.WorkSystem
